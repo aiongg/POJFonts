@@ -1,0 +1,59 @@
+# For single-codepoint-to-glyph mappings where POJ glyphs
+# are not part of the Unicode specification, please use the
+# following Private Use Area code points
+# for consistency between all of the fonts in this repository
+
+A̍	U+0400
+A̋	U+0401
+E̍	U+0402
+E̋	U+0403
+I̍	U+0404
+I̋	U+0405
+M̀	U+0406
+M̂	U+0407
+M̄	U+0408
+M̍	U+0409
+M̆	U+040a
+M̋	U+040b
+N̂	U+040c
+N̄	U+040d
+N̍	U+040e
+N̆	U+040f
+N̋	U+0410
+O̍	U+0411
+O͘	U+0412
+Ó͘	U+0413
+Ò͘	U+0414
+Ô͘	U+0415
+Ō͘	U+0416
+O̍͘	U+0417
+Ŏ͘	U+0418
+Ő͘	U+0419
+U̍	U+041A
+a̍	U+041B
+a̋	U+041C
+e̍	U+041D
+e̋	U+041E
+i̍	U+041F
+i̋	U+0420
+m̀	U+0421
+m̂	U+0422
+m̄	U+0423
+m̍	U+0424
+m̆	U+0425
+m̋	U+0426
+n̂	U+0427
+n̄	U+0428
+n̍	U+0429
+n̆	U+042A
+n̋	U+042B
+o̍	U+042C
+o͘	U+042D
+ó͘	U+042E
+ò͘	U+042F
+ô͘	U+0430
+ō͘	U+0431
+o̍͘	U+0432
+ŏ͘	U+0433
+ő͘	U+0434
+u̍	U+0435
