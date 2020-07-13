@@ -1,0 +1,10 @@
+# POJ Fonts
+
+See individual font folders for license information.
+
+See `charset.txt` for a full set of test characters.
+
+The corresponding Excel sheet `charset.xlsx` lists all characters and
+Unicode points for easy reference when creating or modifying a font.
+
+PRs welcome!
