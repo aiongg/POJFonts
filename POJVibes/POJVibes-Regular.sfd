@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1332866514
-ModificationTime: 1594017662
+ModificationTime: 1594876152
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -97,7 +97,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 17 12
+WinInfo: 32 8 2
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "tones" "'mark' Mark Positioning lookup 1-1" "o_dot" "'mark' Mark Positioning lookup 1-1"
@@ -15629,58 +15629,58 @@ AnchorPoint: "o_dot" 814 714 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-538 24 m 0
- 427 -61 427 -61 313 -61 c 0
- 193 -61 193 -61 138 28 c 0
- 99 93 99 93 99 172.5 c 0
- 99 252 99 252 128 331 c 1
- 58 378 58 378 51 457 c 0
- 49 472 49 472 49 487 c 0
- 49 607 49 607 152 688 c 0
- 262 774 262 774 412 774 c 0
- 562 774 562 774 660.5 690.5 c 0
- 759 607 759 607 759 452 c 0
- 759 442 759 442 759 432 c 1
- 859 498 859 498 889 558 c 0
- 894 569 894 569 902 567.5 c 0
- 910 566 910 566 910 561 c 0
- 910 556 910 556 904 547 c 0
- 845 454 845 454 755 397 c 1
- 751 350 751 350 729.5 284 c 0
- 708 218 708 218 657 147.5 c 0
- 606 77 606 77 538 24 c 0
-700 453 m 0
- 700 622 700 622 592 703 c 0
- 520 757 520 757 424 757 c 0
- 396 757 396 757 367 752 c 0
- 245 734 245 734 168 651 c 0
- 103 579 103 579 103 488 c 0
- 103 409 103 409 146 372 c 1
- 185 455 185 455 261 540 c 0
- 344 633 344 633 436 654 c 0
- 451 657 451 657 474.5 657 c 0
- 498 657 498 657 529 638 c 0
- 536 634 536 634 536.5 630 c 0
- 537 626 537 626 532 624 c 0
- 527 622 527 622 517 625.5 c 0
- 507 629 507 629 483.5 629 c 0
- 460 629 460 629 416 605 c 0
- 372 581 372 581 327 530 c 0
- 238 429 238 429 197 338 c 1
- 260 309 260 309 348 309 c 0
- 387 309 387 309 431 314 c 0
- 574 333 574 333 698 400 c 1
- 700 427 700 427 700 453 c 0
-692 365 m 1
- 525 276 525 276 340 276 c 0
- 250 276 250 276 182 303 c 1
- 151 222 151 222 151 163 c 0
- 151 25 151 25 234 -16 c 0
- 279 -37 279 -37 323.5 -37 c 0
- 368 -37 368 -37 410 -18 c 0
- 498 22 498 22 568 107 c 0
- 638 192 638 192 674 294 c 0
- 688 334 688 334 692 365 c 1
+538 24 m 0,0,1
+ 427 -61 427 -61 313 -61 c 0,2,3
+ 193 -61 193 -61 138 28 c 0,4,5
+ 99 93 99 93 99 172.5 c 0,6,7
+ 99 252 99 252 128 331 c 1,8,9
+ 58 378 58 378 51 457 c 0,10,11
+ 49 472 49 472 49 487 c 0,12,13
+ 49 607 49 607 152 688 c 0,14,15
+ 262 774 262 774 412 774 c 0,16,17
+ 562 774 562 774 660.5 690.5 c 0,18,19
+ 759 607 759 607 759 452 c 0,20,21
+ 759 442 759 442 759 432 c 1,22,23
+ 859 498 859 498 889 558 c 0,24,25
+ 894 569 894 569 902 567.5 c 0,26,27
+ 910 566 910 566 910 561 c 0,28,29
+ 910 556 910 556 904 547 c 0,30,31
+ 845 454 845 454 755 397 c 1,32,33
+ 751 350 751 350 729.5 284 c 0,34,35
+ 708 218 708 218 657 147.5 c 0,36,37
+ 606 77 606 77 538 24 c 0,0,1
+700 453 m 0,38,39
+ 700 622 700 622 592 703 c 0,40,41
+ 520 757 520 757 424 757 c 0,42,43
+ 396 757 396 757 367 752 c 0,44,45
+ 245 734 245 734 168 651 c 0,46,47
+ 103 579 103 579 103 488 c 0,48,49
+ 103 409 103 409 146 372 c 1,50,51
+ 185 455 185 455 261 540 c 0,52,53
+ 344 633 344 633 436 654 c 0,54,55
+ 451 657 451 657 474.5 657 c 0,56,57
+ 498 657 498 657 529 638 c 0,58,59
+ 536 634 536 634 536.5 630 c 0,60,61
+ 537 626 537 626 532 624 c 0,62,63
+ 527 622 527 622 517 625.5 c 0,64,65
+ 507 629 507 629 483.5 629 c 0,66,67
+ 460 629 460 629 416 605 c 0,68,69
+ 372 581 372 581 327 530 c 0,70,71
+ 238 429 238 429 197 338 c 1,72,73
+ 260 309 260 309 348 309 c 0,74,75
+ 387 309 387 309 431 314 c 0,76,77
+ 574 333 574 333 698 400 c 1,78,79
+ 700 427 700 427 700 453 c 0,38,39
+692 365 m 1,80,81
+ 525 276 525 276 340 276 c 0,82,83
+ 250 276 250 276 182 303 c 1,84,85
+ 151 222 151 222 151 163 c 0,86,87
+ 151 25 151 25 234 -16 c 0,88,89
+ 279 -37 279 -37 323.5 -37 c 0,90,91
+ 368 -37 368 -37 410 -18 c 0,92,93
+ 498 22 498 22 568 107 c 0,94,95
+ 638 192 638 192 674 294 c 0,96,97
+ 688 334 688 334 692 365 c 1,80,81
 EndSplineSet
 Refer: 408 772 S 1 0 0 1 510 414 2
 EndChar
@@ -15694,48 +15694,48 @@ AnchorPoint: "o_dot" 378 323 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-239 350 m 0
- 312 350 312 350 312 258 c 0
- 312 216 312 216 290 168 c 0
- 262 103 262 103 206 50 c 1
- 219 25 219 25 253 25 c 0
- 280 25 280 25 304 52 c 0
- 334 83 334 83 347 106.5 c 0
- 360 130 360 130 366 141 c 0
- 372 152 372 152 381.5 172.5 c 0
- 391 193 391 193 393 197.5 c 0
- 395 202 395 202 400 202 c 0
- 410 203 410 203 410 195 c 0
- 410 192 410 192 408 188 c 2
- 402 174 l 2
- 396 160 396 160 393 154 c 0
- 390 148 390 148 382.5 132.5 c 0
- 375 117 375 117 369.5 108 c 0
- 364 99 364 99 354.5 84 c 0
- 345 69 345 69 337.5 60 c 0
- 330 51 330 51 319 40 c 0
- 308 29 308 29 298 23 c 0
- 273 8 273 8 251 8 c 0
- 210 8 210 8 187 34 c 1
- 141 0 141 0 102 0 c 0
- 29 0 29 0 29 92 c 0
- 29 134 29 134 51 182 c 0
- 81 252 81 252 135.5 301 c 0
- 190 350 190 350 239 350 c 0
-250 319 m 0
- 223 319 223 319 186 283 c 0
- 149 247 149 247 120 185 c 0
- 85 113 85 113 85 67 c 0
- 85 21 85 21 120 21 c 0
- 145 21 145 21 176 48 c 1
- 160 71 160 71 160 97 c 0
- 162 140 162 140 195 140 c 0
- 208 140 208 140 216.5 131 c 0
- 225 122 225 122 225 114.5 c 0
- 225 107 225 107 223 99 c 1
- 240 124 240 124 262 170 c 0
- 287 221 287 221 287 270 c 0
- 287 319 287 319 250 319 c 0
+239 350 m 0,0,1
+ 312 350 312 350 312 258 c 0,2,3
+ 312 216 312 216 290 168 c 0,4,5
+ 262 103 262 103 206 50 c 1,6,7
+ 219 25 219 25 253 25 c 0,8,9
+ 280 25 280 25 304 52 c 0,10,11
+ 334 83 334 83 347 106.5 c 0,12,13
+ 360 130 360 130 366 141 c 0,14,15
+ 372 152 372 152 381.5 172.5 c 0,16,17
+ 391 193 391 193 393 197.5 c 0,18,19
+ 395 202 395 202 400 202 c 0,20,21
+ 410 203 410 203 410 195 c 0,22,23
+ 410 192 410 192 408 188 c 2,24,-1
+ 402 174 l 2,25,26
+ 396 160 396 160 393 154 c 0,27,28
+ 390 148 390 148 382.5 132.5 c 0,29,30
+ 375 117 375 117 369.5 108 c 0,31,32
+ 364 99 364 99 354.5 84 c 0,33,34
+ 345 69 345 69 337.5 60 c 0,35,36
+ 330 51 330 51 319 40 c 0,37,38
+ 308 29 308 29 298 23 c 0,39,40
+ 273 8 273 8 251 8 c 0,41,42
+ 210 8 210 8 187 34 c 1,43,44
+ 141 0 141 0 102 0 c 0,45,46
+ 29 0 29 0 29 92 c 0,47,48
+ 29 134 29 134 51 182 c 0,49,50
+ 81 252 81 252 135.5 301 c 0,51,52
+ 190 350 190 350 239 350 c 0,0,1
+250 319 m 0,53,54
+ 223 319 223 319 186 283 c 0,55,56
+ 149 247 149 247 120 185 c 0,57,58
+ 85 113 85 113 85 67 c 0,59,60
+ 85 21 85 21 120 21 c 0,61,62
+ 145 21 145 21 176 48 c 1,63,64
+ 160 71 160 71 160 97 c 0,65,66
+ 162 140 162 140 195 140 c 0,67,68
+ 208 140 208 140 216.5 131 c 0,69,70
+ 225 122 225 122 225 114.5 c 0,71,72
+ 225 107 225 107 223 99 c 1,73,74
+ 240 124 240 124 262 170 c 0,75,76
+ 287 221 287 221 287 270 c 0,77,78
+ 287 319 287 319 250 319 c 0,53,54
 EndSplineSet
 Refer: 408 772 S 1 0 0 1 244 0 2
 EndChar
@@ -24665,8 +24665,8 @@ Fore
 Refer: 315 700 S 1 0 0 1 170.55 0 2
 Refer: 407 -1 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
-Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t8
 Ligature2: "'liga' Standard Ligatures lookup 0-1" o t8 dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t8
 EndChar
 
 StartChar: u8.liga
@@ -24764,9 +24764,9 @@ LayerCount: 2
 Fore
 Refer: 405 856 S 1 0 0 1 840 152 2
 Refer: 148 210 N 1 0 0 1 0 0 2
-Ligature2: "'liga' Standard Ligatures lookup 0-1" O dot t3
 Ligature2: "'liga' Standard Ligatures lookup 0-1" O t3 dot
 Ligature2: "'liga' Standard Ligatures lookup 0-1" Ograve dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" O dot t3
 EndChar
 
 StartChar: Oo2.liga
@@ -24778,8 +24778,8 @@ Fore
 Refer: 405 856 S 1 0 0 1 840 152 2
 Refer: 149 211 N 1 0 0 1 0 0 2
 Ligature2: "'liga' Standard Ligatures lookup 0-1" O dot t2
-Ligature2: "'liga' Standard Ligatures lookup 0-1" O t2 dot
 Ligature2: "'liga' Standard Ligatures lookup 0-1" Oacute dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" O t2 dot
 EndChar
 
 StartChar: Oo5.liga
@@ -24790,9 +24790,9 @@ LayerCount: 2
 Fore
 Refer: 405 856 S 1 0 0 1 840 152 2
 Refer: 150 212 N 1 0 0 1 0 0 2
-Ligature2: "'liga' Standard Ligatures lookup 0-1" O dot t5
-Ligature2: "'liga' Standard Ligatures lookup 0-1" O t5 dot
 Ligature2: "'liga' Standard Ligatures lookup 0-1" Ocircumflex dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" O t5 dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" O dot t5
 EndChar
 
 StartChar: oo3.liga
@@ -24804,8 +24804,8 @@ Fore
 Refer: 405 856 N 1 0 0 1 414 -192 2
 Refer: 180 242 S 1 0 0 1 0 0 2
 LCarets2: 2 0 0
-Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t3
 Ligature2: "'liga' Standard Ligatures lookup 0-1" o t3 dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t3
 Ligature2: "'liga' Standard Ligatures lookup 0-1" ograve dot
 EndChar
 
@@ -24817,9 +24817,9 @@ LayerCount: 2
 Fore
 Refer: 405 856 S 1 0 0 1 414 -192 2
 Refer: 181 243 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" oacute dot
 Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t2
 Ligature2: "'liga' Standard Ligatures lookup 0-1" o t2 dot
-Ligature2: "'liga' Standard Ligatures lookup 0-1" oacute dot
 EndChar
 
 StartChar: oo5.liga
@@ -24830,8 +24830,8 @@ LayerCount: 2
 Fore
 Refer: 405 856 S 1 0 0 1 414 -192 2
 Refer: 182 244 N 1 0 0 1 0 0 2
-Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t5
 Ligature2: "'liga' Standard Ligatures lookup 0-1" o t5 dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t5
 Ligature2: "'liga' Standard Ligatures lookup 0-1" ocircumflex dot
 EndChar
 
@@ -24844,8 +24844,8 @@ Fore
 Refer: 405 856 N 1 0 0 1 840 152 2
 Refer: 262 332 S 1 0 0 1 0 0 2
 Ligature2: "'liga' Standard Ligatures lookup 0-1" O dot t7
-Ligature2: "'liga' Standard Ligatures lookup 0-1" O t7 dot
 Ligature2: "'liga' Standard Ligatures lookup 0-1" Omacron dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" O t7 dot
 EndChar
 
 StartChar: oo7.liga
@@ -24856,8 +24856,8 @@ LayerCount: 2
 Fore
 Refer: 405 856 S 1 0 0 1 414 -192 2
 Refer: 263 333 N 1 0 0 1 0 0 2
-Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t7
 Ligature2: "'liga' Standard Ligatures lookup 0-1" o t7 dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t7
 Ligature2: "'liga' Standard Ligatures lookup 0-1" omacron dot
 EndChar
 
@@ -24869,9 +24869,9 @@ LayerCount: 2
 Fore
 Refer: 405 856 S 1 0 0 1 840 152 2
 Refer: 264 336 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" O dot tk9
 Ligature2: "'liga' Standard Ligatures lookup 0-1" Ohungarumlaut dot
 Ligature2: "'liga' Standard Ligatures lookup 0-1" O tk9 dot
-Ligature2: "'liga' Standard Ligatures lookup 0-1" O dot tk9
 EndChar
 
 StartChar: ook9.liga
@@ -24882,9 +24882,9 @@ LayerCount: 2
 Fore
 Refer: 405 856 S 1 0 0 1 414 -192 2
 Refer: 265 337 N 1 0 0 1 0 0 2
-Ligature2: "'liga' Standard Ligatures lookup 0-1" o tk9 dot
-Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot tk9
 Ligature2: "'liga' Standard Ligatures lookup 0-1" ohungarumlaut dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot tk9
+Ligature2: "'liga' Standard Ligatures lookup 0-1" o tk9 dot
 EndChar
 
 StartChar: Oo9.liga
@@ -24895,6 +24895,9 @@ LayerCount: 2
 Fore
 Refer: 405 856 S 1 0 0 1 840 152 2
 Refer: 423 334 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" Obreve dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" O t9 dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" O dot t9
 EndChar
 
 StartChar: oo9.liga
@@ -24905,6 +24908,9 @@ LayerCount: 2
 Fore
 Refer: 405 856 N 1 0 0 1 384 -162 2
 Refer: 424 335 S 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures lookup 0-1" obreve dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" o t9 dot
+Ligature2: "'liga' Standard Ligatures lookup 0-1" o dot t9
 EndChar
 
 StartChar: uniE400
