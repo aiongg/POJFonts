@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1317401273
-ModificationTime: 1594307760
+ModificationTime: 1594880678
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -448,14 +448,14 @@ GaspTable: 1 65535 15 1
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 132 22 10
+WinInfo: 195 15 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "tones" "'mark' Mark Positioning in Latin lookup 0-1" "o_dot" "'mark' Mark Positioning in Latin lookup 0-1"
-BeginChars: 333 324
+BeginChars: 388 388
 
 StartChar: .notdef
 Encoding: 240 -1 0
@@ -2470,7 +2470,7 @@ SplineSet
  669 564 669 564 626.5 618.5 c 128,-1,114
  584 673 584 673 539 727 c 0,90,91
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: B
@@ -2802,7 +2802,7 @@ SplineSet
  221 145 221 145 186 223 c 0,126,127
  174 246 174 246 160 246 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: F
@@ -3114,7 +3114,7 @@ SplineSet
  123 748 123 748 112.5 826.5 c 128,-1,23
  102 905 102 905 102 934 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: J
@@ -3937,7 +3937,7 @@ SplineSet
  59 569 59 569 69.5 657.5 c 128,-1,53
  80 746 80 746 94 823 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: V
@@ -4613,7 +4613,7 @@ SplineSet
  387 180 387 180 484 267 c 128,-1,76
  581 354 581 354 678 528 c 0,54,55
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: b
@@ -4878,7 +4878,7 @@ SplineSet
  582 457 582 457 629 464 c 128,-1,83
  676 471 676 471 711 477 c 0,64,65
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: f
@@ -5118,7 +5118,7 @@ SplineSet
  109 567 109 567 102.5 629.5 c 128,-1,38
  96 692 96 692 96 715 c 0,16,17
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: j
@@ -5886,7 +5886,7 @@ SplineSet
  308 525 308 525 300.5 467.5 c 128,-1,46
  293 410 293 410 293 354 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: v
@@ -8637,7 +8637,7 @@ LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 131 88 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Oacute
@@ -8650,7 +8650,7 @@ LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 117 180 N 1 0 0 1 238 88 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Ocircumflex
@@ -8663,7 +8663,7 @@ LayerCount: 2
 Fore
 Refer: 50 79 N 1 0 0 1 0 0 3
 Refer: 219 710 N 1 0 0 1 238 88 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: Otilde
@@ -9459,7 +9459,7 @@ LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 67 96 N 1 0 0 1 53 -28 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: oacute
@@ -9472,7 +9472,7 @@ LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 117 180 N 1 0 0 1 160 -28 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ocircumflex
@@ -9485,7 +9485,7 @@ LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
 Refer: 219 710 N 1 0 0 1 160 -28 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: otilde
@@ -9839,7 +9839,7 @@ SplineSet
  133 140 133 140 122 317 c 128,-1,23
  111 494 111 494 92 674 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: ij
@@ -11479,7 +11479,7 @@ SplineSet
  -67.7998046875 1204 -67.7998046875 1204 -72.7998046875 1242.59960938 c 4,73,74
  -77.7998046875 1280 -77.7998046875 1280 -77.599609375 1289.79980469 c 4,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dot
@@ -11490,7 +11490,7 @@ AnchorPoint: "o_dot" -2 863 mark 0
 LayerCount: 2
 Fore
 Refer: 120 183 S 1 0 0 1.01914 -325 380.995 2
-Validated: 65537
+Validated: 1
 EndChar
 
 StartChar: Oo.liga
@@ -11501,7 +11501,7 @@ LayerCount: 2
 Fore
 Refer: 244 856 S 1 0 0 1 1104 182 2
 Refer: 50 79 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot
 EndChar
 
@@ -11513,7 +11513,7 @@ LayerCount: 2
 Fore
 Refer: 244 856 S 1 0 0 1 934 56 2
 Refer: 82 111 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot
 EndChar
 
@@ -11590,10 +11590,10 @@ SplineSet
  38 1350 38 1350 66 1342 c 128,-1,29
  94 1334 94 1334 102 1315 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
-StartChar: t6
+StartChar: t9
 Encoding: 252 774 252
 Width: 0
 Flags: W
@@ -11604,7 +11604,7 @@ Refer: 221 728 N 1 0 0 1 -433.5 0 2
 Validated: 1
 EndChar
 
-StartChar: t9
+StartChar: tk9
 Encoding: 253 779 253
 Width: 0
 Flags: W
@@ -11612,10 +11612,10 @@ AnchorPoint: "tones" -2 989 mark 0
 LayerCount: 2
 Fore
 Refer: 5 34 N 1 0 0 0.957377 -427.5 511.479 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.254
+StartChar: uni1E3E
 Encoding: 254 7742 254
 Width: 1421
 Flags: W
@@ -11623,10 +11623,10 @@ LayerCount: 2
 Fore
 Refer: 247 769 S 1 0 0 1 831 44 2
 Refer: 48 77 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.255
+StartChar: uni1E3F
 Encoding: 255 7743 255
 Width: 1454
 Flags: W
@@ -11634,10 +11634,10 @@ LayerCount: 2
 Fore
 Refer: 247 769 S 1 0 0 1 780 -60 2
 Refer: 80 109 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.256
+StartChar: uni01F8
 Encoding: 256 504 256
 Width: 1337
 Flags: W
@@ -11645,10 +11645,10 @@ LayerCount: 2
 Fore
 Refer: 248 768 S 1 0 0 1 597 145 2
 Refer: 49 78 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.257
+StartChar: uni01F9
 Encoding: 257 505 257
 Width: 973
 Flags: W
@@ -11656,10 +11656,10 @@ LayerCount: 2
 Fore
 Refer: 248 768 S 1 0 0 1 380 96 2
 Refer: 81 110 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.258
+StartChar: Ebreve
 Encoding: 258 276 258
 Width: 1276
 Flags: W
@@ -11667,10 +11667,10 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 676 -27 2
 Refer: 40 69 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.259
+StartChar: ebreve
 Encoding: 259 277 259
 Width: 1057
 Flags: W
@@ -11678,10 +11678,10 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 558 -189 2
 Refer: 72 101 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.260
+StartChar: Ibreve
 Encoding: 260 300 260
 Width: 492
 Flags: W
@@ -11689,10 +11689,10 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 240 153 2
 Refer: 44 73 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.261
+StartChar: ibreve
 Encoding: 261 301 261
 Width: 444
 Flags: W
@@ -11700,10 +11700,10 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 228 -135 2
 Refer: 196 305 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.262
+StartChar: Obreve
 Encoding: 262 334 262
 Width: 1233
 Flags: W
@@ -11712,10 +11712,10 @@ LayerCount: 2
 Fore
 Refer: 252 774 N 1 0 0 1 633 61 2
 Refer: 50 79 N 1 0 0 1 0 0 2
-Validated: 1114113
+Validated: 1
 EndChar
 
-StartChar: NameMe.263
+StartChar: obreve
 Encoding: 263 335 263
 Width: 1063
 Flags: W
@@ -11723,10 +11723,10 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 538 -95 2
 Refer: 82 111 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.264
+StartChar: Omacron
 Encoding: 264 332 264
 Width: 1233
 Flags: W
@@ -11736,10 +11736,10 @@ LayerCount: 2
 Fore
 Refer: 112 175 N 1 0 0 1 193 49 2
 Refer: 50 79 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
-StartChar: NameMe.265
+StartChar: omacron
 Encoding: 265 333 265
 Width: 1063
 Flags: W
@@ -11748,10 +11748,10 @@ LayerCount: 2
 Fore
 Refer: 112 175 N 1 0 0 1 72 -88 2
 Refer: 82 111 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
-StartChar: NameMe.267
+StartChar: ohungarumlaut
 Encoding: 267 337 266
 Width: 1063
 Flags: W
@@ -11760,10 +11760,10 @@ LayerCount: 2
 Fore
 Refer: 5 34 N 1 0 0 0.980328 146.5 506.99 2
 Refer: 82 111 N 1 0 0 1 0 0 2
-Validated: 1114113
+Validated: 1
 EndChar
 
-StartChar: NameMe.266
+StartChar: Ohungarumlaut
 Encoding: 266 336 267
 Width: 1233
 Flags: W
@@ -11772,7 +11772,7 @@ LayerCount: 2
 Fore
 Refer: 253 779 N 1 0 0 1 657 50 2
 Refer: 50 79 N 1 0 0 1 0 0 2
-Validated: 1114113
+Validated: 1
 EndChar
 
 StartChar: A8.liga
@@ -11784,8 +11784,8 @@ Fore
 Refer: 251 781 N 1 0 0 1 535 336 2
 Refer: 36 65 N 1 0 0 1 0 0 2
 Validated: 1
-LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" A t8
+LCarets2: 1 0
 EndChar
 
 StartChar: A9.liga
@@ -11796,8 +11796,8 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 527 203 2
 Refer: 36 65 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" A t9
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" A tk9
 EndChar
 
 StartChar: E8.liga
@@ -11820,8 +11820,8 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 628 144 2
 Refer: 40 69 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" E t9
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" E tk9
 EndChar
 
 StartChar: I8.liga
@@ -11844,8 +11844,8 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 249 210 2
 Refer: 44 73 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" I t9
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" I tk9
 EndChar
 
 StartChar: M8.liga
@@ -11868,7 +11868,7 @@ LayerCount: 2
 Fore
 Refer: 248 768 S 1 0 0 1 654 90 2
 Refer: 48 77 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" M t3
 EndChar
@@ -11881,7 +11881,7 @@ LayerCount: 2
 Fore
 Refer: 249 770 S 1 0 0 1 708 26 2
 Refer: 48 77 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" M t5
 EndChar
@@ -11894,7 +11894,7 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 711 -19 2
 Refer: 48 77 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" M t7
 EndChar
@@ -11907,9 +11907,9 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 732 -95 2
 Refer: 48 77 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" M t6
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" M t9
 EndChar
 
 StartChar: M9.liga
@@ -11920,9 +11920,9 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 741 -1 2
 Refer: 48 77 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" M t9
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" M tk9
 EndChar
 
 StartChar: N8.liga
@@ -11946,7 +11946,7 @@ LayerCount: 2
 Fore
 Refer: 249 770 S 1 0 0 1 582 10 2
 Refer: 49 78 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" N t5
 EndChar
@@ -11959,7 +11959,7 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 561 105 2
 Refer: 49 78 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" N t7
 EndChar
 
@@ -11971,8 +11971,8 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 608 48 2
 Refer: 49 78 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" N t6
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" N t9
 EndChar
 
 StartChar: N9.liga
@@ -11983,9 +11983,9 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 585 58 2
 Refer: 49 78 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" N t9
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" N tk9
 EndChar
 
 StartChar: O8.liga
@@ -12009,9 +12009,9 @@ LayerCount: 2
 Fore
 Refer: 251 781 S 1 0 0 1 633 279 2
 Refer: 245 -1 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot t8
+Validated: 1
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t8 dot
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot t8
 EndChar
 
 StartChar: Oo2.liga
@@ -12022,7 +12022,8 @@ LayerCount: 2
 Fore
 Refer: 247 769 S 1 0 0 1 594 237 2
 Refer: 245 -1 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" Oacute dot
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot t2
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t2 dot
 EndChar
@@ -12035,9 +12036,10 @@ LayerCount: 2
 Fore
 Refer: 248 768 S 1 0 0 1 579 288 2
 Refer: 245 -1 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t3 dot
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" Ograve dot
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot t3
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t3 dot
 EndChar
 
 StartChar: Oo5.liga
@@ -12048,7 +12050,8 @@ LayerCount: 2
 Fore
 Refer: 249 770 S 1 0 0 1 567 243 2
 Refer: 245 -1 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" Ocircumflex dot
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot t5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t5 dot
 EndChar
@@ -12061,12 +12064,13 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 585 204 2
 Refer: 245 -1 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t7 dot
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" Omacron dot
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot t7
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t7 dot
 EndChar
 
-StartChar: Oo6.liga
+StartChar: Oo9.liga
 Encoding: 291 -1 291
 Width: 1233
 Flags: W
@@ -12074,12 +12078,13 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 576 138 2
 Refer: 245 -1 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t6 dot
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot t6
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" Obreve dot
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t9 dot
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot t9
 EndChar
 
-StartChar: Oo9.liga
+StartChar: Ook9.liga
 Encoding: 292 -1 292
 Width: 1233
 Flags: W
@@ -12087,9 +12092,10 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 588 165 2
 Refer: 245 -1 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot t9
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O t9 dot
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" Ohungarumlaut dot
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O dot tk9
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" O tk9 dot
 EndChar
 
 StartChar: U8.liga
@@ -12125,9 +12131,9 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 642 13 2
 Refer: 68 97 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" a t9
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" a tk9
 EndChar
 
 StartChar: e8.liga
@@ -12151,9 +12157,9 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 598 -100 2
 Refer: 72 101 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" e t9
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" e tk9
 EndChar
 
 StartChar: i8.liga
@@ -12165,9 +12171,9 @@ Fore
 Refer: 251 781 S 1 0 0 1 210 116 2
 Refer: 196 305 N 1 0 0 1 0 0 2
 Validated: 1
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" i t8
-LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" dotlessi t8
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" i t8
 EndChar
 
 StartChar: i9.liga
@@ -12178,10 +12184,10 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 224 0 2
 Refer: 196 305 N 1 0 0 1 0 0 2
-Validated: 65537
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" i t9
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" dotlessi tk9
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" dotlessi t9
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" i tk9
 EndChar
 
 StartChar: m8.liga
@@ -12205,7 +12211,7 @@ LayerCount: 2
 Fore
 Refer: 248 768 S 1 0 0 1 669 -100 2
 Refer: 80 109 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" m t3
 EndChar
@@ -12218,7 +12224,7 @@ LayerCount: 2
 Fore
 Refer: 249 770 S 1 0 0 1 684 -168 2
 Refer: 80 109 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" m t5
 EndChar
@@ -12231,7 +12237,7 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 693 -195 2
 Refer: 80 109 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" m t7
 EndChar
@@ -12244,9 +12250,9 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 666 -219 2
 Refer: 80 109 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" m t6
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" m t9
 EndChar
 
 StartChar: m9.liga
@@ -12257,9 +12263,9 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 714 -120 2
 Refer: 80 109 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" m t9
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" m tk9
 EndChar
 
 StartChar: n8.liga
@@ -12283,7 +12289,7 @@ LayerCount: 2
 Fore
 Refer: 249 770 S 1 0 0 1 438 -5 2
 Refer: 81 110 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" n t5
 EndChar
@@ -12296,7 +12302,7 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 456 -87 2
 Refer: 81 110 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" n t7
 EndChar
@@ -12309,9 +12315,9 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 468 -44 2
 Refer: 81 110 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" n t6
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" n t9
 EndChar
 
 StartChar: n9.liga
@@ -12322,9 +12328,9 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 442 18 2
 Refer: 81 110 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" n t9
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" n tk9
 EndChar
 
 StartChar: o8.liga
@@ -12348,7 +12354,7 @@ LayerCount: 2
 Fore
 Refer: 251 781 S 1 0 0 1 552 98 2
 Refer: 246 -1 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 LCarets2: 2 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t8
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o t8 dot
@@ -12362,10 +12368,11 @@ LayerCount: 2
 Fore
 Refer: 247 769 S 1 0 0 1 516 77 2
 Refer: 246 -1 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" oacute dot
 LCarets2: 2 0 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t2
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o t2 dot
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t2
 EndChar
 
 StartChar: oo3.liga
@@ -12376,7 +12383,8 @@ LayerCount: 2
 Fore
 Refer: 248 768 S 1 0 0 1 471 66 2
 Refer: 246 -1 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" ograve dot
 LCarets2: 2 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t3
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o t3 dot
@@ -12390,10 +12398,11 @@ LayerCount: 2
 Fore
 Refer: 249 770 S 1 0 0 1 477 -28 2
 Refer: 246 -1 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" ocircumflex dot
 LCarets2: 2 0 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o t5 dot
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t5
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o t5 dot
 EndChar
 
 StartChar: oo7.liga
@@ -12404,13 +12413,14 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 471 -30 2
 Refer: 246 -1 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" omacron dot
 LCarets2: 2 0 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t7
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o t7 dot
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t7
 EndChar
 
-StartChar: oo6.liga
+StartChar: oo9.liga
 Encoding: 317 -1 317
 Width: 1063
 Flags: W
@@ -12418,13 +12428,14 @@ LayerCount: 2
 Fore
 Refer: 252 774 S 1 0 0 1 492 -97 2
 Refer: 246 -1 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" obreve dot
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t9
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o t9 dot
 LCarets2: 2 0 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o t6 dot
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t6
 EndChar
 
-StartChar: oo9.liga
+StartChar: ook9.liga
 Encoding: 318 -1 318
 Width: 1063
 Flags: W
@@ -12432,10 +12443,11 @@ LayerCount: 2
 Fore
 Refer: 253 779 S 1 0 0 1 495 -42 2
 Refer: 246 -1 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" ohungarumlaut dot
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o tk9 dot
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot tk9
 LCarets2: 2 0 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o t9 dot
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" o dot t9
 EndChar
 
 StartChar: u8.liga
@@ -12450,7 +12462,7 @@ LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1" u t8
 EndChar
 
-StartChar: NameMe.320
+StartChar: Amacron
 Encoding: 320 256 320
 Width: 1208
 Flags: W
@@ -12458,10 +12470,10 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 510 135 2
 Refer: 36 65 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.321
+StartChar: Umacron
 Encoding: 321 362 321
 Width: 1182
 Flags: W
@@ -12469,10 +12481,10 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 495 141 2
 Refer: 56 85 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.322
+StartChar: umacron
 Encoding: 322 363 322
 Width: 961
 Flags: W
@@ -12480,10 +12492,10 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 502 -146 2
 Refer: 88 117 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
-StartChar: NameMe.323
+StartChar: imacron
 Encoding: 323 299 323
 Width: 444
 Flags: W
@@ -12491,7 +12503,593 @@ LayerCount: 2
 Fore
 Refer: 250 772 S 1 0 0 1 208 -220 2
 Refer: 196 305 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
+EndChar
+
+StartChar: amacron
+Encoding: 324 257 324
+Width: 1137
+Flags: W
+LayerCount: 2
+Fore
+Refer: 250 772 S 1 0 0 1 596 -22 2
+Refer: 68 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Abreve
+Encoding: 325 258 325
+Width: 1208
+Flags: W
+LayerCount: 2
+Fore
+Refer: 252 774 S 1 0 0 1 450 66 2
+Refer: 36 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: abreve
+Encoding: 326 259 326
+Width: 1137
+Flags: W
+LayerCount: 2
+Fore
+Refer: 252 774 S 1 0 0 1 628 -28 2
+Refer: 68 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Emacron
+Encoding: 327 274 327
+Width: 1276
+Flags: W
+LayerCount: 2
+Fore
+Refer: 250 772 S 1 0 0 1 594 48 2
+Refer: 40 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: emacron
+Encoding: 328 275 328
+Width: 1057
+Flags: W
+LayerCount: 2
+Fore
+Refer: 250 772 S 1 0 0 1 538 -138 2
+Refer: 72 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Imacron
+Encoding: 329 298 329
+Width: 492
+Flags: W
+LayerCount: 2
+Fore
+Refer: 250 772 N 1 0 0 1 222 138 2
+Refer: 44 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ubreve
+Encoding: 330 364 330
+Width: 1182
+Flags: W
+LayerCount: 2
+Fore
+Refer: 252 774 S 1 0 0 1 460 48 2
+Refer: 56 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ubreve
+Encoding: 331 365 331
+Width: 961
+Flags: W
+LayerCount: 2
+Fore
+Refer: 252 774 S 1 0 0 1 512 -60 2
+Refer: 88 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uhungarumlaut
+Encoding: 332 368 332
+Width: 1182
+Flags: W
+LayerCount: 2
+Fore
+Refer: 253 779 S 1 0 0 1 494 168 2
+Refer: 56 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uhungarumlaut
+Encoding: 333 369 333
+Width: 961
+Flags: W
+LayerCount: 2
+Fore
+Refer: 253 779 S 1 0 0 1 512 12 2
+Refer: 88 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE40D
+Encoding: 347 58381 334
+Width: 1337
+Flags: W
+LayerCount: 2
+Fore
+Refer: 282 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE400
+Encoding: 334 58368 335
+Width: 1208
+Flags: W
+LayerCount: 2
+Fore
+Refer: 268 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE401
+Encoding: 335 58369 336
+Width: 1208
+Flags: W
+LayerCount: 2
+Fore
+Refer: 269 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE402
+Encoding: 336 58370 337
+Width: 1276
+Flags: W
+LayerCount: 2
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE403
+Encoding: 337 58371 338
+Width: 1276
+Flags: W
+LayerCount: 2
+Fore
+Refer: 271 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE404
+Encoding: 338 58372 339
+Width: 492
+Flags: W
+LayerCount: 2
+Fore
+Refer: 272 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE405
+Encoding: 339 58373 340
+Width: 492
+Flags: W
+LayerCount: 2
+Fore
+Refer: 273 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE406
+Encoding: 340 58374 341
+Width: 1421
+Flags: W
+LayerCount: 2
+Fore
+Refer: 275 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE407
+Encoding: 341 58375 342
+Width: 1421
+Flags: W
+LayerCount: 2
+Fore
+Refer: 276 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE408
+Encoding: 342 58376 343
+Width: 1421
+Flags: W
+LayerCount: 2
+Fore
+Refer: 277 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE409
+Encoding: 343 58377 344
+Width: 1421
+Flags: W
+LayerCount: 2
+Fore
+Refer: 274 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE40A
+Encoding: 344 58378 345
+Width: 1421
+Flags: W
+LayerCount: 2
+Fore
+Refer: 278 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE40B
+Encoding: 345 58379 346
+Width: 1421
+Flags: W
+LayerCount: 2
+Fore
+Refer: 279 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE40C
+Encoding: 346 58380 347
+Width: 1337
+Flags: W
+LayerCount: 2
+Fore
+Refer: 281 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE40E
+Encoding: 348 58382 348
+Width: 1337
+Flags: W
+LayerCount: 2
+Fore
+Refer: 280 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE40F
+Encoding: 349 58383 349
+Width: 1337
+Flags: W
+LayerCount: 2
+Fore
+Refer: 283 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE410
+Encoding: 350 58384 350
+Width: 1337
+Flags: W
+LayerCount: 2
+Fore
+Refer: 284 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE411
+Encoding: 351 58385 351
+Width: 1233
+Flags: W
+LayerCount: 2
+Fore
+Refer: 285 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE412
+Encoding: 352 58386 352
+Width: 1233
+Flags: W
+LayerCount: 2
+Fore
+Refer: 245 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE413
+Encoding: 353 58387 353
+Width: 1233
+Flags: W
+LayerCount: 2
+Fore
+Refer: 287 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE414
+Encoding: 354 58388 354
+Width: 1233
+Flags: W
+LayerCount: 2
+Fore
+Refer: 288 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE415
+Encoding: 355 58389 355
+Width: 1233
+Flags: W
+LayerCount: 2
+Fore
+Refer: 289 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE416
+Encoding: 356 58390 356
+Width: 1233
+Flags: W
+LayerCount: 2
+Fore
+Refer: 290 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE417
+Encoding: 357 58391 357
+Width: 1233
+Flags: W
+LayerCount: 2
+Fore
+Refer: 286 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE418
+Encoding: 358 58392 358
+Width: 1233
+Flags: W
+LayerCount: 2
+Fore
+Refer: 291 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE419
+Encoding: 359 58393 359
+Width: 1233
+Flags: W
+LayerCount: 2
+Fore
+Refer: 292 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE41A
+Encoding: 360 58394 360
+Width: 1182
+Flags: W
+LayerCount: 2
+Fore
+Refer: 293 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE41B
+Encoding: 361 58395 361
+Width: 1137
+Flags: W
+LayerCount: 2
+Fore
+Refer: 294 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE41C
+Encoding: 362 58396 362
+Width: 1137
+Flags: W
+LayerCount: 2
+Fore
+Refer: 295 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE41D
+Encoding: 363 58397 363
+Width: 1057
+Flags: W
+LayerCount: 2
+Fore
+Refer: 296 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE41E
+Encoding: 364 58398 364
+Width: 1057
+Flags: W
+LayerCount: 2
+Fore
+Refer: 297 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE41F
+Encoding: 365 58399 365
+Width: 444
+Flags: W
+LayerCount: 2
+Fore
+Refer: 298 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE420
+Encoding: 366 58400 366
+Width: 444
+Flags: W
+LayerCount: 2
+Fore
+Refer: 299 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE421
+Encoding: 367 58401 367
+Width: 1454
+Flags: W
+LayerCount: 2
+Fore
+Refer: 300 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE422
+Encoding: 368 58402 368
+Width: 1454
+Flags: W
+LayerCount: 2
+Fore
+Refer: 301 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE423
+Encoding: 369 58403 369
+Width: 1454
+Flags: W
+LayerCount: 2
+Fore
+Refer: 302 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE424
+Encoding: 370 58404 370
+Width: 1454
+Flags: W
+LayerCount: 2
+Fore
+Refer: 303 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE425
+Encoding: 371 58405 371
+Width: 1454
+Flags: W
+LayerCount: 2
+Fore
+Refer: 304 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE426
+Encoding: 372 58406 372
+Width: 1454
+Flags: W
+LayerCount: 2
+Fore
+Refer: 305 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE427
+Encoding: 373 58407 373
+Width: 973
+Flags: W
+LayerCount: 2
+Fore
+Refer: 306 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE428
+Encoding: 374 58408 374
+Width: 973
+Flags: W
+LayerCount: 2
+Fore
+Refer: 307 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE429
+Encoding: 375 58409 375
+Width: 973
+Flags: W
+LayerCount: 2
+Fore
+Refer: 308 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE42A
+Encoding: 376 58410 376
+Width: 973
+Flags: W
+LayerCount: 2
+Fore
+Refer: 309 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE42B
+Encoding: 377 58411 377
+Width: 973
+Flags: W
+LayerCount: 2
+Fore
+Refer: 310 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE42C
+Encoding: 378 58412 378
+Width: 1063
+Flags: W
+LayerCount: 2
+Fore
+Refer: 246 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE42D
+Encoding: 379 58413 379
+Width: 1063
+Flags: W
+LayerCount: 2
+Fore
+Refer: 311 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE42E
+Encoding: 380 58414 380
+Width: 1063
+Flags: W
+LayerCount: 2
+Fore
+Refer: 313 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE42F
+Encoding: 381 58415 381
+Width: 1063
+Flags: W
+LayerCount: 2
+Fore
+Refer: 314 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE430
+Encoding: 382 58416 382
+Width: 1063
+Flags: W
+LayerCount: 2
+Fore
+Refer: 315 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE431
+Encoding: 383 58417 383
+Width: 1063
+Flags: W
+LayerCount: 2
+Fore
+Refer: 316 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE432
+Encoding: 384 58418 384
+Width: 1063
+Flags: W
+LayerCount: 2
+Fore
+Refer: 312 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE433
+Encoding: 385 58419 385
+Width: 1063
+Flags: W
+LayerCount: 2
+Fore
+Refer: 317 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE435
+Encoding: 387 58421 386
+Width: 961
+Flags: W
+LayerCount: 2
+Fore
+Refer: 319 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniE434
+Encoding: 386 58420 387
+Width: 1063
+Flags: W
+LayerCount: 2
+Fore
+Refer: 318 -1 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
