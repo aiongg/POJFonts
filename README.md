@@ -6,6 +6,12 @@ PRs welcome!
 
 ![Font preview](https://github.com/aiongg/POJFonts/blob/master/preview.png?raw=true)
 
+## An-chong Soat-bêng
+
+Táng-ló͘ jī-thé: [POJFonts.zip](https://github.com/aiongg/POJFonts/releases/download/v1/POJFonts-v1.zip)
+
+Kā lí siūⁿ-beh an-chong ê jī-thé chhi̍h--loeh an-chong, koh-lâi tī lí teh sú-iōng ê nńg-thé lâi kéng jī-thé to̍h ē-sái.
+
 ## Creating a font
 
 See the following video tutorial for complete instructions:
