@@ -4,6 +4,8 @@ See individual font folders for license information.
 
 PRs welcome!
 
+![Font preview](https://github.com/aiongg/POJFonts/blob/master/preview.png?raw=true)
+
 ## Creating a font
 
 See the following video tutorial for complete instructions:
