@@ -6,7 +6,6 @@ I. SINGLE CODE POINTS - LATIN LETTERS [UNICODE]
 A	U+0041
 B	U+0042
 C	U+0043
-C	U+0043
 D	U+0044
 E	U+0045
 F	U+0046
@@ -32,7 +31,6 @@ Y	U+0059
 Z	U+005A
 a	U+0061
 b	U+0062
-c	U+0063
 c	U+0063
 d	U+0064
 e	U+0065
@@ -95,12 +93,16 @@ z	U+007A
 ē	U+0113
 Ĕ	U+0114
 ĕ	U+0115
+Ě	U+011A
+ě	U+011B
 Ī	U+012A
 ī	U+012B
 Ĭ	U+012C
 ĭ	U+012D
 Ń	U+0143
 ń	U+0144
+Ň	U+0147
+ň	U+0148
 Ō	U+014C
 ō	U+014D
 Ŏ	U+014E
@@ -113,6 +115,14 @@ z	U+007A
 ŭ	U+016D
 Ű	U+0170
 ű	U+0171
+Ǎ	U+01CD
+ǎ	U+01CE
+Ǐ	U+01CF
+ǐ	U+01D0
+Ǒ	U+01D1
+ǒ	U+01D2
+Ǔ	U+01D3
+ǔ	U+01D4
 Ǹ	U+01F8
 ǹ	U+01F9
 Ḿ	U+1E3E
@@ -124,8 +134,9 @@ II. SINGLE CODEPOINTS - COMBINING CHARACTERS
 COMBINING GRAVE	U+0300	[t3]
 COMBINING ACUTE	U+0301	[t2]
 COMBINING CIRCUMFLEX	U+0302	[t5]
+COMBINING CARON 	U+030C	[t6]
 COMBINING MACRON	U+0304	[t7]
-COMBINNG BREVE	U+0306	[t9]
+COMBINING BREVE	U+0306	[t9]
 COMBINING HUNGARUMLAUT	U+030B	[tk9]
 COMBINING VERTICAL LINE	U+030D	[t8]
 COMBINING DOT ABOVE RIGHT	U+0358	[dot]
@@ -135,7 +146,7 @@ III. MARK-TO-BASE LOOKUPS
 TONE BASE: A E I M N O U a e i m n o u
 TONE MARK: (See II)
 
-DOT BASE: O Ò Ó Ô Ō Ŏ Ő o ò ó ô ō ŏ ő
+DOT BASE: O Ò Ó Ô Ǒ Ō Ŏ Ő o ò ó ô ǒ ō ŏ ő
 DOT ABOVE RIGHT: (See II)
 
 IV. LIGATURES AND PRIVATE USE AREA [NON-STANDARD]
@@ -155,11 +166,13 @@ I̍	U+E404
 I̋	U+E405
 M̀	U+E406
 M̂	U+E407
+M̌
 M̄	U+E408
 M̍	U+E409
 M̆	U+E40a
 M̋	U+E40b
 N̂	U+E40c
+Ň
 N̄	U+E40d
 N̍	U+E40e
 N̆	U+E40f
@@ -169,6 +182,7 @@ O͘	U+E412
 Ó͘	U+E413
 Ò͘	U+E414
 Ô͘	U+E415
+Ǒ͘
 Ō͘	U+E416
 O̍͘	U+E417
 Ŏ͘	U+E418
@@ -182,11 +196,13 @@ i̍	U+E41F
 i̋	U+E420
 m̀	U+E421
 m̂	U+E422
+m̌
 m̄	U+E423
 m̍	U+E424
 m̆	U+E425
 m̋	U+E426
 n̂	U+E427
+ň
 n̄	U+E428
 n̍	U+E429
 n̆	U+E42A
@@ -196,6 +212,7 @@ o͘	U+E42D
 ó͘	U+E42E
 ò͘	U+E42F
 ô͘	U+E430
+ǒ͘
 ō͘	U+E431
 o̍͘	U+E432
 ŏ͘	U+E433
@@ -226,6 +243,10 @@ Oo5.liga	O t5 dot
 Oo5.liga	O dot t5
 Oo5.liga	Ocircumflex dot
 
+Oo6.liga	O t6 dot
+Oo6.liga	O dot t6
+Oo6.liga	Ocaron dot
+
 Oo7.liga	O t7 dot
 Oo7.liga	O dot t7
 Oo7.liga	Omacron dot
@@ -247,10 +268,10 @@ Test characters:
 
 Combining Oo - tone mark - dot:
 
-Ó͘ Ò͘ Ô͘ Ō͘ O̍͘ Ŏ͘ Ő͘
-ó͘ ò͘ ô͘ ō͘ o̍͘ ŏ͘ ő͘
+Ó͘ Ò͘ Ô͘ Ǒ͘ Ō͘ O̍͘ Ŏ͘ Ő͘
+ó͘ ò͘ ô͘ ǒ͘ ō͘ o̍͘ ŏ͘ ő͘
 
 Combining Oo - dot - tone mark:
 
-Ó͘ Ò͘ Ô͘ Ō͘ O̍͘ Ŏ͘ Ő͘
-ó͘ ò͘ ô͘ ō͘ o̍͘ ŏ͘ ő͘
+Ó͘ Ò͘ Ô͘ Ǒ͘ Ō͘ O̍͘ Ŏ͘ Ő͘
+ó͘ ò͘ ô͘ ǒ͘ ō͘ o̍͘ ŏ͘ ő͘
