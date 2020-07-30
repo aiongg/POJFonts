@@ -14,16 +14,22 @@ Táng-ló͘ liáu tō phah-hō͘-khui, chiàu chí-sī an-chong.
 Táng-ló͘ 了就拍予開，照指示安裝。
 
 ## 2. Chhōe siūⁿ beh kái ê jī-thé
-Nā-sī m̄-chai beh ùi tó-ūi chhōe ē-tàng the̍h lâi kái ê jī-thé, chi̍t-ê kán-tan ê hong-hoat sī khì [Google Fonts](https://fonts.google.com/) khòaⁿ, chit-ê bāng-chām lāi-té ē-tàng khòaⁿ-tio̍h chin-chē jī-thé. Ná-ū khòaⁿ tio̍h kah-ì ê, tō tiám--li̍p-khì khòaⁿ "License" ê pō͘-hun. It-tēng ài khak-tēng chit-ê jī-thé sī iōng chhiūⁿ "Open Font License" chit-lūi ín-chún siu-kái ê siū-koân chiah ē-tàng the̍h lâi kái, bô tō sī chhim-koân --o͘h.   
-Bô chò kòe jī-thé, kha bô se̍k beh án-chóaⁿ chò ê lâng kiàn-gī sī seng soàn chi̍t-ê kan-na chi̍t-chióng jī-tāng (font weight) kah hong-keh ê jī-thé (tō-sī "Styles" ê pō͘-hun chí-ū chi̍t-hāng ê) lâi chò, kha bē bú kah bū-sà-sà. 
+Nā-sī m̄-chai beh ùi tó-ūi chhōe ē-tàng the̍h lâi kái ê jī-thé, chi̍t-ê kán-tan ê hong-hoat sī khì [Google Fonts](https://fonts.google.com/) khòaⁿ, chit-ê bāng-chām lāi-té ē-tàng khòaⁿ-tio̍h chin-chē jī-thé. Ná-ū khòaⁿ tio̍h kah-ì ê, tō tiám--li̍p-khì khòaⁿ "License" ê pō͘-hun. It-tēng ài khak-tēng chit-ê jī-thé sī iōng chhiūⁿ "Open Font License" chit-lūi ín-chún siu-kái ê siū-koân chiah ē-tàng the̍h lâi kái, bô tō sī chhim-koân --o͘h.    
+
+Bô chò kòe jī-thé, kha bô se̍k beh án-chóaⁿ chò ê lâng kiàn-gī sī seng soàn chi̍t-ê kan-na chi̍t-chióng jī-tāng (font weight) kah hong-keh ê jī-thé (tō-sī "Styles" ê pō͘-hun chí-ū chi̍t-hāng ê) lâi chò, kha bē bú kah bū-sà-sà.     
+
 Soàn hó tō ji̍h "Download Family" lâi táng-ló͘ jī-thé ê tòng-àn.
 
 ## 2. 揣想欲改 ê 字體
-若是毋知欲對佗位揣會當提來改 ê 字體，一个簡單 ê 方法是去 [Google Fonts](https://fonts.google.com/) 看，這个網站內底會當看著真濟字體。若有看著合意 ê ，就點入去看 "License" ê 部分。一定愛確定這个字體是用像 "Open Font License" 這類允准修改 ê 授權才會當提來改，無就是侵權喔。
-無做過字體，較無熟欲按怎做 ê 人建議是先選一个干焦一種字重 (font weight) 佮風格 ê 字體（就是 "Styles" ê 部分只有一項 ê ）來做，較袂舞甲霧嗄嗄。
+若是毋知欲對佗位揣會當提來改 ê 字體，一个簡單 ê 方法是去 [Google Fonts](https://fonts.google.com/) 看，這个網站內底會當看著真濟字體。若有看著合意 ê ，就點入去看 "License" ê 部分。一定愛確定這个字體是用像 "Open Font License" 這類允准修改 ê 授權才會當提來改，無就是侵權喔。   
+
+無做過字體，較無熟欲按怎做 ê 人建議是先選一个干焦一種字重 (font weight) 佮風格 ê 字體（就是 "Styles" ê 部分只有一項 ê ）來做，較袂舞甲霧嗄嗄。    
+
 選好就揤 "Download Family" 來 táng-ló͘ 字體 ê 檔案。
 
 
-=====
-iá-bē siá--liáu...
+=======
+
+iá-bē siá--liáu...    
+
 猶未寫了...
