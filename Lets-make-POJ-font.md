@@ -28,7 +28,7 @@ Soàn hó tō ji̍h "Download Family" lâi táng-ló͘ jī-thé ê tòng-àn.
 選好就揤 "Download Family" 來 táng-ló͘ 字體 ê 檔案。
 
 ## 3. Se̍k-sāi FontForge ê ki-pún chhau-chok
-Seng phah-khui FontForge, koh-lâi ji̍h "File" > "Open" soán beh the̍h lâi kái ê jī-thé, ji̍h "OK" kā phah hō͘ khui.    
+Seng phah-khui FontForge, koh-lâi ji̍h "File" > "Open" soán beh the̍h lâi kái ê jī-thé, ji̍h "OK" kā phah hō͘ khui.    
 
 In-ūi jī-thé ki-pún-siōng kan-na ē chò khah chia̍p ēng ê jī, phah-khui í-āu èng-kai ē khòaⁿ-tio̍h chin-chē keh-á lāi-té sī khang--ê. Ē-tàng ji̍h "Encoding" > "Compact", kā khang--ê keh-á lóng chhàng--khí-lâi khah bē tìn-tè.  
 
@@ -39,7 +39,7 @@ Lēng-gōa FontForge tī phah-khui ê sî-chūn tī jī ê thâu-téng hián-sī
 Beh chò sin ê jī, lán tō su-iàu sin ê khang keh-á. Ji̍h "Encoding" > "Add Encoding Slots", su-li̍p siūⁿ beh ài kúi keh, ji̍h "OK" tō ē-tàng khòaⁿ-tio̍h siōng ē-kha ū cháu-chhut sin ê khang keh-á--lo͘h.
 
 ## 3. 熟似 FontForge ê 基本操作
-先拍開 FontForge，閣來揤 "File" > "Open" 選欲提來改 ê 字體，揤 "OK" 共拍予開。
+先拍開 FontForge，閣來揤 "File" > "Open" 選欲提來改 ê 字體，揤 "OK" 共拍予開。
 
 因為字體基本上干焦會做較捷用 ê 字，拍開以後應該會看著真濟格仔內底是空--ê。會當揤 "Encoding" > "Compact"，共空--ê格仔攏藏起來較袂鎮地。
 
