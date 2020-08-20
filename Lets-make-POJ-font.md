@@ -53,7 +53,7 @@ Beh chò sin ê jī, lán tō su-iàu sin ê khang keh-á. Ji̍h "Encoding" > "A
 
 
 ## 4. Khai-sí chò jī pó͘ jī
-Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng ū tùi-èng ê Unicode, lēng-gōa chi̍t-chéng bô. Ē-tàng chham-khó "charset.xlsx" iá-sī "charset.txt", lāi-té ū chéng-lí jī-bó tùi-èng ê Unicode. Nā-sī khàng-pe̍h ê, tō-sī bô Unicode ê hit-chéng. Chit nn̄g-chéng ài ēng bô-kâng ê hong-hoat lâi siat-tēng. Kán-tan soeh-bêng chi̍t-ê:
+Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng ū tùi-èng ê Unicode, lēng-gōa chi̍t-chéng bô. Ē-tàng chham-khó "charset.xlsx" iá-sī "charset.txt", lāi-té ū chéng-lí jī-bó tùi-èng ê Unicode. Nā-sī khàng-pe̍h--ê, tō-sī bô Unicode ê hit-chéng. Chit nn̄g-chéng ài ēng bô-kâng ê hong-hoat lâi siat-tēng. Kán-tan soeh-bêng chi̍t-ê:
 
 * Ū Unicode: Kā jī chò--chhut-lâi í-āu kā hō chi̍t-ê tùi-èng ê Unicode hō-bé tō ē-sái.
 * Bô Unicode: Kā jī chò--chhut-lâi í-āu ài iōng "Ligature (liām-jī)" ê hong-hoat chí-tēng jī beh án-chóaⁿ phah--chhut-lâi.
@@ -61,7 +61,7 @@ Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng
 
 ## 4. 開始做字補字
 
-台語羅馬字內底欠 ê 字分做兩種。一種有對應 ê Unicode, 另外一種無。會當參考 "charset.xlsx" 猶是 "charset.txt"，內底有整理字母對應 ê Unicode. 若是空白 ê ，就是無 Unicode ê 彼種。這兩種愛用無仝 ê 方法來設定。簡單說明一下：
+台語羅馬字內底欠 ê 字分做兩種。一種有對應 ê Unicode, 另外一種無。會當參考 "charset.xlsx" 猶是 "charset.txt"，內底有整理字母對應 ê Unicode. 若是空白--ê ，就是無 Unicode ê 彼種。這兩種愛用無仝 ê 方法來設定。簡單說明一下：
 
 * 有 Unicode：共字做出來以後共號一个對應 ê Unicode 號碼就會使。
 * 無 Unicode：共字做出來以後愛用 "Ligature（連字）" ê 方法指定字欲按怎拍出來。 
