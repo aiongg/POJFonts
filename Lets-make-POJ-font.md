@@ -13,6 +13,7 @@ Táng-ló͘ liáu tō phah-hō͘-khui, chiàu chí-sī an-chong.
 這个說明內底使用 ê 是開源軟體 FontForge. 會當佇遮 táng-ló͘ : [FontForge](https://fontforge.org/en-US/)  
 Táng-ló͘ 了就拍予開，照指示安裝。
 
+
 ## 2. Chhōe siūⁿ beh kái ê jī-thé
 Nā-sī m̄-chai beh ùi tó-ūi chhōe ē-tàng the̍h lâi kái ê jī-thé, chi̍t-ê kán-tan ê hong-hoat sī khì [Google Fonts](https://fonts.google.com/) khòaⁿ, chit-ê bāng-chām lāi-té ē-tàng khòaⁿ-tio̍h chin-chē jī-thé. Ná-ū khòaⁿ tio̍h kah-ì ê, tō tiám--li̍p-khì khòaⁿ "License" ê pō͘-hun. It-tēng ài khak-tēng chit-ê jī-thé sī iōng chhiūⁿ "Open Font License" chit-lūi ín-chún siu-kái ê siū-koân chiah ē-tàng the̍h lâi kái, bô tō sī chhim-koân --o͘h.    
 
@@ -26,6 +27,7 @@ Soàn hó tō ji̍h "Download Family" lâi táng-ló͘ jī-thé ê tòng-àn.
 無做過字體，較無熟欲按怎做 ê 人建議是先選一个干焦一種字重 (font weight) 佮風格 ê 字體（就是 "Styles" ê 部分只有一項 ê ）來做，較袂舞甲霧嗄嗄。    
 
 選好就揤 "Download Family" 來 táng-ló͘ 字體 ê 檔案。
+
 
 ## 3. Se̍k-sāi FontForge ê ki-pún chhau-chok
 Seng phah-khui FontForge, koh-lâi ji̍h "File" > "Open" soán beh the̍h lâi kái ê jī-thé, ji̍h "OK" kā phah hō͘ khui.    
@@ -48,6 +50,21 @@ Beh chò sin ê jī, lán tō su-iàu sin ê khang keh-á. Ji̍h "Encoding" > "A
 另外 FontForge 佇拍開 ê 時陣佇字 ê 頭頂顯示 ê 是伊 ê Unicode 號碼（這个號碼是十六進位--ê）。會當佇 "View" > "Label Glyph by" 內底換做捌項。較捷用 ê 是 "Unicode" 佮 "Name"。
 
 欲做新 ê 字，咱就需要新 ê 空格仔。揤 "Encoding" > "Add Encoding Slots" 輸入想欲愛幾格，揤 "OK" 就會當看著上下跤走出新 ê 空格仔囉。
+
+
+## 4. Khai-sí chò jī pó͘ jī
+Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng ū tùi-èng ê Unicode, lēng-gōa chi̍t-chéng bô. Ē-tàng chham-khó "charset.xlsx" iá-sī "charset.txt", lāi-té ū chéng-lí jī-bó tùi-èng ê Unicode. Nā-sī khàng-pe̍h ê, tō-sī bô Unicode ê hit-chéng. Chit nn̄g-chéng ài ēng bô-kâng ê hong-hoat lâi siat-tēng. Kán-tan soeh-bêng chi̍t-ê:
+
+* Ū Unicode: Kā jī chò--chhut-lâi í-āu kā hō chi̍t-ê tùi-èng ê Unicode hō-bé tō ē-sái.
+* Bô Unicode: Kā jī chò--chhut-lâi í-āu ài iōng "Ligature (liām-jī)" ê hong-hoat chí-tēng jī beh án-chóaⁿ phah--chhut-lâi.
+
+
+## 4. 開始做字補字
+
+台語羅馬字內底欠 ê 字分做兩種。一種有對應 ê Unicode, 另外一種無。會當參考 "charset.xlsx" 猶是 "charset.txt"，內底有整理字母對應 ê Unicode. 若是空白 ê ，就是無 Unicode ê 彼種。這兩種愛用無仝 ê 方法來設定。簡單說明一下：
+
+* 有 Unicode：共字做出來以後共號一个對應 ê Unicode 號碼就會使。
+* 無 Unicode：共字做出來以後愛用 "Ligature（連字）" ê 方法指定字欲按怎拍出來。 
 
 
 =======
