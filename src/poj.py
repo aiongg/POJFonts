@@ -714,25 +714,22 @@ if __name__ == '__main__':
             ' - uppercase versions of above, named with `.cap` suffix\n'
             ' - all diacritics should be centered in a zero-width glyph\n'
             ' - dotlessi (U+0131) is required, dotlessj (U+0237) is optional\n\n'
-            'ATTENTION! Before running this script, use the script\n'
-            '    `FillUnicodeDiacritics.pe`\n'
-            'to build any missing single codepoint diacritics, this step is required!\n\n'
             'Example: ffpython build_poj.py --input MyFont.sfd \\\n'
-            '                               --output output.sfd \\\n'
+            '                               --output poj-JiKut.sfd \\\n'
             '                               --vxy 500 527 587 658 339 707 647 667 713 720 \\   # uppercase AEIOU\n'
             '                                     431 417 450 432 272 366 496 448 473 505     # lowercase aeiou')
     parser = ArgumentParser(description=desc, formatter_class=RawTextHelpFormatter)
     parser.add_argument('-i', '--input', type=str, required=True, help='The input .sfd font file')
     parser.add_argument('-o', '--output', type=str, default='output.sfd', help='The output .sfd font file (default: output.sfd)')
-    parser.add_argument('--vowel-dots', type=int, nargs=20, help='XY-coords for dots next to vowels AEIOUaeiou [Ax Ay...ux uy]')
+    parser.add_argument('--vowel-dots', type=int, nargs=20, metavar=('Ax', 'Ay', 'Ex', 'Ey', 'Ix', 'Iy', 'Ox', 'Oy', 'Ux', 'Uy', 'ax', 'ay', 'ex', 'ey', 'ix', 'iy', 'ox', 'oy', 'ux', 'uy'), help='XY-coords for dots next to vowels AEIOUaeiou [Ax Ay...ux uy]')
     parser.add_argument('--skip-dotlessi', action='store_true', help='Do not replace ij with dotlessij')
     parser.add_argument('--skip-poj-anchors', action='store_true', help='Do not add top center anchors')
     parser.add_argument('--skip-dot-anchors', action='store_true', help='Do not add dot anchors')
     parser.add_argument('--skip-ligas', action='store_true', help='Do not build POJ ligatures')
-    parser.add_argument('--sc-suffix', type=str, help='suffix for SmallCaps (e.g., sc')
+    parser.add_argument('--sc-suffix', type=str, metavar='SUFFIX', help='suffix for SmallCaps (e.g., sc)')
     group = parser.add_mutually_exclusive_group()
     group.add_argument('--auto-kern', action='store_true', help='Attempt to autokern POJ glyphs')
-    group.add_argument('--kern-sep', type=int, nargs=2, help='Specify the separation and class-similarity (1-20) parameters')
+    group.add_argument('--kern-sep', type=int, nargs=2, metavar=('SEPARATION', 'SIMILARITY'), help='Specify the separation and class-similarity (1-20) parameters')
 
     args = parser.parse_args()
 
