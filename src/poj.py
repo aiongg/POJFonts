@@ -217,7 +217,12 @@ class POJFont:
         slot = self.font.findEncodingSlot(nameOrUni)
         if slot == -1:
             return None
-        return self.font[slot]
+
+        try:
+            glyph = self.font[slot]
+            return glyph
+        except TypeError:
+            return None
 
 
     def addLookup(self, lname, ltype, feature, after_lname=None):
