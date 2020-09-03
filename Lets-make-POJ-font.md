@@ -65,6 +65,45 @@ Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng
 
 * 有 Unicode：共字做出來以後共號一个對應 ê Unicode 號碼就會使。
 * 無 Unicode：共字做出來以後愛用 "Ligature（連字）" ê 方法指定字欲按怎拍出來。 
+     
+- - -
+
+* Hoān-lē 1: Chò "ⁿ"   
+    Tùi-chiàu "charset.txt" ē-tàng khòaⁿ-tio̍h "ⁿ" ê Unicode sī "U+207F." Lán seng tī khàng-pe̍h ê keh-á téng-koân chiàⁿ-ji̍h, soán "Glyph Info." Tī phah-khui ê thang-á lāi-té chhōe-tio̍h "Unicode Value", su-li̍p "207f" (tō-sī i ê Unicode the̍h-tiāu "U+"). Koh-lâi ji̍h siōng ē-kha ê "OK" kā thang-á koaiⁿ-tiāu.  
+
+    In-ūi chit-ê sè-jī ê "ⁿ" the̍h sió-siá ê "n" lâi kài ê khah kín, seng khì thâu-chêng chhōe jī-thé pún-té tō chò hó ê "n", chiàⁿ-ji̍h, soán "Copy Reference" lâi ho̍k-chè "n" ê hêng. Tńg-khì tú-á siat-tēng hó "ⁿ" Unicode ê hit keh, chiàⁿ-ji̍h soán "Paste" kā ho̍k-chè ê "n" tah--li̍p-khì.   
+
+    Ūi-tio̍h khak-tēng "ⁿ" khǹg ê ūi-tì, seng phah-khui "Window" > "New Metrics Window". Ē-tàng khòaⁿ-tio̍h téng-koân ū chi̍t-ê su-li̍p-kheng lāi-té í-keng ū chi̍t-jī "ⁿ." Lán tī chi̍t-jī "ⁿ" ê thâu-chêng koh phah chi̍t-jī "a" lâi chò chham-khó. Tī ē-kha ē-sái khòaⁿ-tio̍h chit-má "ⁿ" kah "a" nn̄g-jī pêⁿ-tōa.
+
+    Koh-lâi ài kā i ê chhùn-chhioh tiâu hō͘ sè, chiah sī lán beh ài ê "ⁿ". Tī keh-á tiám nn̄g-ē, phah-khui pian-chi̍p ōe-bīn. "Element" > "Transformations" > "Transform", tī pún-lâi sī "Move..." ê só͘-chāi kái soán "Scale Uniformly...." Ná tiâu-chéng pah-hun-pí ê sò͘-jī ē-tàng ná ji̍h "Apply" khòaⁿ tiâu-chéng liáu ê hāu-kó. Chhùn-chhioh móa-ì tō ē-sái ji̍h "OK." Koan-chhat Metrics Window ē hoat-hiān "ⁿ" khǹg ê ūi iû-oân bô chèng-khak. Tī pian-chi̍p ōe-bīn iōng Pointer kang-kū ē-tàng kā "ⁿ" thoa sóa-ūi. Chi̍t-bīn thoa chi̍t-bīn khòaⁿ Metrics Window lāi-té ê "ⁿ" ū tī chèng-khak ê ūi-tì bô. Mā ē-sái kā Metrics Window su-li̍p-kheng lāi-té ê "a" ōaⁿ-chò kî-tha jī-bó lâi khòaⁿ tàu--khí-lâi hāu-kó án-chóaⁿ. Nā lóng bô-būn-tê, "ⁿ" tō chò hó--ah.
+
+* 範例 1：做 "ⁿ"    
+    對照 "charset.txt" 會當看著 "ⁿ" ê Unicode 是 "U+207F"。咱先佇空白 ê 格仔頂懸正揤，選 "Glyph Info"。佇拍開 ê 窗仔內底揣著 "Unicode Value", 輸入 "207f" （就是伊 ê Unicode 提掉 "U+"）。閣來揤上下跤 ê "OK" 共窗仔關掉。    
+
+    因為這个細字 ê "ⁿ" 提小寫 ê "n" 來改 ê 較緊，先去頭前揣字體本底就做好 ê "n"，正揤，選 "Copy Reference" 來複製 "n" ê 形。轉去拄仔設定好 "ⁿ" Unicode ê 彼格，正揤選 "Paste" 共複製 ê "n" 貼入去。
+
+    為著確定 "ⁿ" 囥 ê 位置，先拍開 "Window" > "New Metrics Window"。會當看著頂懸有一个輸入框內底已經有一字 "ⁿ"。咱佇這字 "ⁿ" ê 頭前閣拍一字 "a" 來做參考。佇下跤會使看著這馬 "ⁿ" 佮 "a" 兩字平大。
+
+    閣來愛共伊 ê 寸尺調予細，才是咱欲愛 ê "ⁿ"。佇格仔點兩下，拍開編輯畫面。"Element" > "Transformations" > "Transform"，佇本來是 "Move..." ê 所在改選 "Scale Uniformly..."。那調整百分比 ê 數字會當那揤 "Apply" 看調整了 ê 效果。寸尺滿意就會使揤 "OK"。觀察 Metrics Window 會發現 "ⁿ" 囥 ê 位猶原無正確。佇編輯畫面用 Pointer 工具會當共 "ⁿ" 拖徙位。一面拖一面看 Metrics Window 內底 ê "ⁿ" 有佇正確 ê 位置無。嘛會使共 Metrics Window 輸入框內底 ê "a" 換做其他字母來看鬥起來效果按怎。若攏無問題，"ⁿ" 就做好矣。
+
+
+* Hoān-lē 2: Chò "O͘" kah "o͘"
+    "O͘" kah "o͘" bô tùi-èng ê Unicode, su-iàu iōng "O" kah "◌͘" (Combining Dot Above Right, U+0358. Sī chi̍t-ê choan-mn̂g iōng-lâi khǹg tī jī-bó chiàⁿ-pêng téng-koân ê tiám) cho͘-ha̍p. Tāi-seng lán seng tī jī-thé ū ê jī lāi-té chhōe khòaⁿ kám ū chi̍t-ê Unicode sī U+0358 ê "◌͘". Nā-sī bô mā bē-iàu-kín, ē-tàng the̍h seⁿ-chò chha-put-to ê "." (U+002E) lâi ēng. Iōng kah hoān-lē 1 kâng-khóaⁿ ê hong-hoat chò chi̍t-ê beh hō͘ "O͘" kah "o͘" choan-iōng ê tiám, tī keh-á chiàⁿ-ji̍h, soán "Glyph Info", lāi-té "Glyph Name" su-li̍p "dot", hō͘ i ū chi̍t-ê miâ (í-āu ē ēng-tio̍h). Koh-lâi tī tiám ê keh-á chiàⁿ-ji̍h, soán "Copy Reference" lâi ho̍k-chè.
+
+    Tī beh iōng-lâi khǹg "O͘" kah "o͘" ê khàng-pe̍h keh-á chiàⁿ-ji̍h soán "Paste" kā ho̍k-chè ê tiám tah--li̍p-khì. Koh-lâi kâng-khóaⁿ ê hong-hoat tī "O͘" ê keh-á kā "O" tah--li̍p-khì; tī "o͘" ê keh-á kā "o" tah--li̍p-khì. Tī keh-á tiám nn̄g-ē, phah-khui pian-chi̍p ōe-bīn. Iōng Pointer kang-kū kā tiám thoa káu chèng-khak ê ūi-tì (Chù-ì: Thoa tiám tō hó mài thoa tio̍h "O"). Tiâu-chéng liáu tō ē-sái kā pian-chi̍p ōe-bīn koaiⁿ--khí-lâi. Tī "O" ê keh-á chiàⁿ-ji̍h, soán "Glyph Info." Tī phah-khui ê thang-á lāi-té chhōe-tio̍h "Glyph Name", su-li̍p "Oo.liga." "o" mā-sī kâng-khóaⁿ chhú-lí, "Glyph Name" su-li̍p "oo.liga" (Chù-ì: Tōa sió siá bô kâng).
+
+    In-ūi bô tùi-èng ê Unicode, koh ài siat-tēng su-li̍p ê hong-hoat. "Element > Font Info" tī tò-pêng chhōe "Lookups", téng-koân soán "GSUB", koh-lâi ji̍h chiàⁿ-pêng ê "Add Lookup." Tī thiàu--chhut-lâi ê thang-á lāi "Type" soán "Ligature Substitution." "Feature" ê só͘-chāi soán "liga Standard Ligatures", soán hó ji̍h ē-kha ê "OK." Tō ē khòaⁿ-tio̍h thang-á koaiⁿ--khí-lâi, "GSUB" ē-kha ke chi̍t-hāng "'liga' Standard Ligatures lookup 0." 
+    
+    Koh-lâi ji̍h chiàⁿ-pêng ê "Add Subtable." Thâu-chi̍t-ê thang-á ti̍t-chiap ji̍h "OK," sòa-lo̍h-lâi tī thiàu--chhut-lâi ê thang-á ū "New" ê só͘-chāi ji̍h chi̍t-ē, su-li̍p "Oo.liga", tō-sī lán pang "O͘" hō ê miâ. Chiàⁿ-pêng su-li̍p "O" khang chi̍t-keh "dot", khòaⁿ--khí-lâi ē chhiūⁿ "O dot(◌͘)." Án-ne "O͘" tō chò hó--ah. "o͘" mā-sī kâng-khóaⁿ ê hong-hoat. M̄-koh m̄-bián têng-chò lookup ê só͘-chāi, ti̍t-chiap ùi "GSUB" ē-kha "'liga' Standard Ligatures lookup 0" tiám hō͘ khui, lāi-té ê "'liga' Standard Ligatures lookup 0-1" tiám nn̄g-ē, kā thang-á phah hō͘ khui koh ka sin--ê tō hó.
+
+* 範例 2：做 "O͘" 佮 "o͘"
+    "O͘" 佮 "o͘" 無對應 ê Unicode, 需要用 "O" kah "◌͘"（Combining Dot Above Right, U+0358. 是一个專門用來囥佇字母正爿頂懸 ê 點）組合。代先咱先佇字體有 ê 字內底揣看敢有這个 Unicode 是 U+0358 ê "◌͘"。若是無嘛袂要緊，會當提生做差不多 ê "."（U+002E）來用。用佮範例 1 仝款 ê 方法做這个欲予 "O͘" 佮 "o͘" 專用 ê 點，佇格仔正揤，選 "Glyph Info"，內底 "Glyph Name" 輸入 "dot"，予伊一个名（以後會用著）。閣來佇點 ê 格仔正揤，選 "Copy Reference" 來複製。
+
+    佇欲用來囥 "O͘" 佮 "o͘" ê 空白格仔正揤選 "Paste" 共複製 ê 點貼入去。閣來仝款 ê 方法佇 "O͘" ê 格仔共 "O" 貼入去；佇 "o͘" ê 格仔共 "o" 貼入去。佇格仔點兩下，拍開編輯畫面。用 Pointer 工具共點拖到正確 ê 位置（注意：拖點就好莫拖著 "O"）。調整了就會使共編輯畫面關起來。佇 "O" ê 格仔正揤，選 "Glyph Info"。佇拍開 ê 窗仔內底揣著 "Glyph Name", 輸入 "Oo.liga"。"o" 嘛是仝款處理， "Glyph Name", 輸入 "oo.liga"（注意：大小寫無仝）。
+
+    因為無對應 ê Unicode，閣愛設定輸入 ê 方法。"Element > Font Info" 佇倒爿揣 "Lookups"，頂懸選 "GSUB"，閣來揤正爿 ê "Add Lookup"。佇跳出來 ê 窗仔內 "Type" 選 "Ligature Substitution"。"Feature" ê 所在選 "liga Standard Ligatures" ，選好揤下跤 ê "OK"。就會看著窗仔關起來，"GSUB" 下跤加一項 "'liga' Standard Ligatures lookup 0"。
+
+    閣來揤正爿 ê "Add Subtable"。頭一个窗仔直接揤 "OK"，紲落來佇跳出來 ê 窗仔有 "New" ê 所在揤一下，輸入 "Oo.liga"，就是咱幫 "O͘" 號 ê 名。正爿輸入 "O" 空一格 "dot"，看起來會像 "O dot(◌͘)"。按呢 "O͘" 就做好矣。"o͘" 嘛是仝款 ê 方法。毋閣毋免重做 lookup ê 所在，直接對 "GSUB" 下跤 "'liga' Standard Ligatures lookup 0" 點予開，內底 ê "'liga' Standard Ligatures lookup 0-1" 點兩下，共窗仔拍予開閣加新--ê 就好。
 
 
 =======
