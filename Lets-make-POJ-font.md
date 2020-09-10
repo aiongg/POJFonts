@@ -1,4 +1,3 @@
-
 # Chò-hóe lâi chò Pe̍h-ōe-jī jī-thé
 Pe̍h-ōe-jī lāi-té ū chin-chē kā im-tiau-hû-hō kap chò-hóe ê bó-im, tāi-pō͘-hun ê jī-thé lóng bô pau-koat chit-kóa jī, só͘-í ē bô-hoat-tō͘ hián-sī, pìⁿ chò chi̍t-tè sì-kak tāu-hū. Chit-ê chōng-hóng mā chō-sêng Pe̍h-ōe-jī ē-tàng ēng ê jī-thé hui-siông chió. Beh kái-koat chit-ê būn-tê, lán ē-tàng chhōe hiān-iú ê, ū khai-hòng siū-koân ê jī-thé lâi siu-kái, kā pún-té bô ê jī pó͘--khí-lâi. Sòa--lo̍h-lâi tō lâi sòe-bêng ài án-chóaⁿ chò.
 
@@ -36,7 +35,7 @@ In-ūi jī-thé ki-pún-siōng kan-na ē chò khah chia̍p ēng ê jī, phah-khu
 
 Nā-sī chiok-chē jī khòaⁿ--khí-lâi chhiau-kòe keh-á ê hoān-ûi, bô-hó piān-sek, ē-tàng ji̍h "View" > "Fit to font bounding box" hō͘ jī ê chhùn-chhioh tiâu-chéng kàu tú-á-hó tī keh-á lāi-té. Téng-koân "sò͘-jī + pixel outline" ê soán-hāng ē-tàng tiâu-chéng keh-á ê tōa-sè.  
 
-Lēng-gōa FontForge tī phah-khui ê sî-chūn tī jī ê thâu-téng hián-sī ê sī i ê Unicode hō-bé (chit-ê hō-bé sī cha̍p-la̍k chìn-ūi--ê). Ē-tàng tī "View" > "Label Glyph by" lāi-té ōaⁿ chò bat-hāng. Khah chia̍p ēng ê sī "Unicode" kah "Name."  
+Lēng-gōa FontForge tī phah-khui ê sî-chūn tī jī ê thâu-téng hián-sī ê sī i ê Unicode hō-bé (chit-ê hō-bé sī cha̍p-la̍k chìn-ūi--ê). Ē-tàng tī "View" > "Label Glyph by" lāi-té ōaⁿ chò bat-hāng. Khah chia̍p ēng ê sī "Unicode" kah "Name".  
 
 Beh chò sin ê jī, lán tō su-iàu sin ê khang keh-á. Ji̍h "Encoding" > "Add Encoding Slots", su-li̍p siūⁿ beh ài kúi keh, ji̍h "OK" tō ē-tàng khòaⁿ-tio̍h siōng ē-kha ū cháu-chhut sin ê khang keh-á--lo͘h.
 
@@ -69,13 +68,13 @@ Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng
 - - -
 
 * Hoān-lē 1: Chò "ⁿ"   
-    Tùi-chiàu "charset.txt" ē-tàng khòaⁿ-tio̍h "ⁿ" ê Unicode sī "U+207F." Lán seng tī khàng-pe̍h ê keh-á téng-koân chiàⁿ-ji̍h, soán "Glyph Info." Tī phah-khui ê thang-á lāi-té chhōe-tio̍h "Unicode Value", su-li̍p "207f" (tō-sī i ê Unicode the̍h-tiāu "U+"). Koh-lâi ji̍h siōng ē-kha ê "OK" kā thang-á koaiⁿ-tiāu.  
+    Tùi-chiàu "charset.txt" ē-tàng khòaⁿ-tio̍h "ⁿ" ê Unicode sī "U+207F". Lán seng tī khàng-pe̍h ê keh-á téng-koân chiàⁿ-ji̍h, soán "Glyph Info". Tī phah-khui ê thang-á lāi-té chhōe-tio̍h "Unicode Value", su-li̍p "207f" (tō-sī i ê Unicode the̍h-tiāu "U+"). Koh-lâi ji̍h siōng ē-kha ê "OK" kā thang-á koaiⁿ-tiāu.  
 
     In-ūi chit-ê sè-jī ê "ⁿ" the̍h sió-siá ê "n" lâi kài ê khah kín, seng khì thâu-chêng chhōe jī-thé pún-té tō chò hó ê "n", chiàⁿ-ji̍h, soán "Copy Reference" lâi ho̍k-chè "n" ê hêng. Tńg-khì tú-á siat-tēng hó "ⁿ" Unicode ê hit keh, chiàⁿ-ji̍h soán "Paste" kā ho̍k-chè ê "n" tah--li̍p-khì.   
 
-    Ūi-tio̍h khak-tēng "ⁿ" khǹg ê ūi-tì, seng phah-khui "Window" > "New Metrics Window". Ē-tàng khòaⁿ-tio̍h téng-koân ū chi̍t-ê su-li̍p-kheng lāi-té í-keng ū chi̍t-jī "ⁿ." Lán tī chi̍t-jī "ⁿ" ê thâu-chêng koh phah chi̍t-jī "a" lâi chò chham-khó. Tī ē-kha ē-sái khòaⁿ-tio̍h chit-má "ⁿ" kah "a" nn̄g-jī pêⁿ-tōa.
+    Ūi-tio̍h khak-tēng "ⁿ" khǹg ê ūi-tì, seng phah-khui "Window" > "New Metrics Window". Ē-tàng khòaⁿ-tio̍h téng-koân ū chi̍t-ê su-li̍p-kheng lāi-té í-keng ū chi̍t-jī "ⁿ". Lán tī chi̍t-jī "ⁿ" ê thâu-chêng koh phah chi̍t-jī "a" lâi chò chham-khó. Tī ē-kha ē-sái khòaⁿ-tio̍h chit-má "ⁿ" kah "a" nn̄g-jī pêⁿ-tōa.
 
-    Koh-lâi ài kā i ê chhùn-chhioh tiâu hō͘ sè, chiah sī lán beh ài ê "ⁿ". Tī keh-á tiám nn̄g-ē, phah-khui pian-chi̍p ōe-bīn. "Element" > "Transformations" > "Transform", tī pún-lâi sī "Move..." ê só͘-chāi kái soán "Scale Uniformly...." Ná tiâu-chéng pah-hun-pí ê sò͘-jī ē-tàng ná ji̍h "Apply" khòaⁿ tiâu-chéng liáu ê hāu-kó. Chhùn-chhioh móa-ì tō ē-sái ji̍h "OK." Koan-chhat Metrics Window ē hoat-hiān "ⁿ" khǹg ê ūi iû-oân bô chèng-khak. Tī pian-chi̍p ōe-bīn iōng Pointer kang-kū ē-tàng kā "ⁿ" thoa sóa-ūi. Chi̍t-bīn thoa chi̍t-bīn khòaⁿ Metrics Window lāi-té ê "ⁿ" ū tī chèng-khak ê ūi-tì bô. Mā ē-sái kā Metrics Window su-li̍p-kheng lāi-té ê "a" ōaⁿ-chò kî-tha jī-bó lâi khòaⁿ tàu--khí-lâi hāu-kó án-chóaⁿ. Nā lóng bô-būn-tê, "ⁿ" tō chò hó--ah.
+    Koh-lâi ài kā i ê chhùn-chhioh tiâu hō͘ sè, chiah sī lán beh ài ê "ⁿ". Tī keh-á tiám nn̄g-ē, phah-khui pian-chi̍p ōe-bīn. "Element" > "Transformations" > "Transform", tī pún-lâi sī "Move..." ê só͘-chāi kái soán "Scale Uniformly...". Ná tiâu-chéng pah-hun-pí ê sò͘-jī ē-tàng ná ji̍h "Apply" khòaⁿ tiâu-chéng liáu ê hāu-kó. Chhùn-chhioh móa-ì tō ē-sái ji̍h "OK". Koan-chhat Metrics Window ē hoat-hiān "ⁿ" khǹg ê ūi iû-oân bô chèng-khak. Tī pian-chi̍p ōe-bīn iōng Pointer kang-kū ē-tàng kā "ⁿ" thoa sóa-ūi. Chi̍t-bīn thoa chi̍t-bīn khòaⁿ Metrics Window lāi-té ê "ⁿ" ū tī chèng-khak ê ūi-tì bô. Mā ē-sái kā Metrics Window su-li̍p-kheng lāi-té ê "a" ōaⁿ-chò kî-tha jī-bó lâi khòaⁿ tàu--khí-lâi hāu-kó án-chóaⁿ. Nā lóng bô-būn-tê, "ⁿ" tō chò hó--ah.
 
 * 範例 1：做 "ⁿ"    
     對照 "charset.txt" 會當看著 "ⁿ" ê Unicode 是 "U+207F"。咱先佇空白 ê 格仔頂懸正揤，選 "Glyph Info"。佇拍開 ê 窗仔內底揣著 "Unicode Value", 輸入 "207f" （就是伊 ê Unicode 提掉 "U+"）。閣來揤上下跤 ê "OK" 共窗仔關掉。    
@@ -90,11 +89,11 @@ Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng
 * Hoān-lē 2: Chò "O͘" kah "o͘"
     "O͘" kah "o͘" bô tùi-èng ê Unicode, su-iàu iōng "O" kah "◌͘" (Combining Dot Above Right, U+0358. Sī chi̍t-ê choan-mn̂g iōng-lâi khǹg tī jī-bó chiàⁿ-pêng téng-koân ê tiám) cho͘-ha̍p. Tāi-seng lán seng tī jī-thé ū ê jī lāi-té chhōe khòaⁿ kám ū chi̍t-ê Unicode sī U+0358 ê "◌͘". Nā-sī bô mā bē-iàu-kín, ē-tàng the̍h seⁿ-chò chha-put-to ê "." (U+002E) lâi ēng. Iōng kah hoān-lē 1 kâng-khóaⁿ ê hong-hoat chò chi̍t-ê beh hō͘ "O͘" kah "o͘" choan-iōng ê tiám, tī keh-á chiàⁿ-ji̍h, soán "Glyph Info", lāi-té "Glyph Name" su-li̍p "dot", hō͘ i ū chi̍t-ê miâ (í-āu ē ēng-tio̍h). Koh-lâi tī tiám ê keh-á chiàⁿ-ji̍h, soán "Copy Reference" lâi ho̍k-chè.
 
-    Tī beh iōng-lâi khǹg "O͘" kah "o͘" ê khàng-pe̍h keh-á chiàⁿ-ji̍h soán "Paste" kā ho̍k-chè ê tiám tah--li̍p-khì. Koh-lâi kâng-khóaⁿ ê hong-hoat tī "O͘" ê keh-á kā "O" tah--li̍p-khì; tī "o͘" ê keh-á kā "o" tah--li̍p-khì. Tī keh-á tiám nn̄g-ē, phah-khui pian-chi̍p ōe-bīn. Iōng Pointer kang-kū kā tiám thoa káu chèng-khak ê ūi-tì (Chù-ì: Thoa tiám tō hó mài thoa tio̍h "O"). Tiâu-chéng liáu tō ē-sái kā pian-chi̍p ōe-bīn koaiⁿ--khí-lâi. Tī "O" ê keh-á chiàⁿ-ji̍h, soán "Glyph Info." Tī phah-khui ê thang-á lāi-té chhōe-tio̍h "Glyph Name", su-li̍p "Oo.liga." "o" mā-sī kâng-khóaⁿ chhú-lí, "Glyph Name" su-li̍p "oo.liga" (Chù-ì: Tōa sió siá bô kâng).
+    Tī beh iōng-lâi khǹg "O͘" kah "o͘" ê khàng-pe̍h keh-á chiàⁿ-ji̍h soán "Paste" kā ho̍k-chè ê tiám tah--li̍p-khì. Koh-lâi kâng-khóaⁿ ê hong-hoat tī "O͘" ê keh-á kā "O" tah--li̍p-khì; tī "o͘" ê keh-á kā "o" tah--li̍p-khì. Tī keh-á tiám nn̄g-ē, phah-khui pian-chi̍p ōe-bīn. Iōng Pointer kang-kū kā tiám thoa káu chèng-khak ê ūi-tì (Chù-ì: Thoa tiám tō hó mài thoa tio̍h "O"). Tiâu-chéng liáu tō ē-sái kā pian-chi̍p ōe-bīn koaiⁿ--khí-lâi. Tī "O" ê keh-á chiàⁿ-ji̍h, soán "Glyph Info". Tī phah-khui ê thang-á lāi-té chhōe-tio̍h "Glyph Name", su-li̍p "Oo.liga". "o" mā-sī kâng-khóaⁿ chhú-lí, "Glyph Name" su-li̍p "oo.liga" (Chù-ì: Tōa sió siá bô kâng).
 
-    In-ūi bô tùi-èng ê Unicode, koh ài siat-tēng su-li̍p ê hong-hoat. "Element > Font Info" tī tò-pêng chhōe "Lookups", téng-koân soán "GSUB", koh-lâi ji̍h chiàⁿ-pêng ê "Add Lookup." Tī thiàu--chhut-lâi ê thang-á lāi "Type" soán "Ligature Substitution." "Feature" ê só͘-chāi soán "liga Standard Ligatures", soán hó ji̍h ē-kha ê "OK." Tō ē khòaⁿ-tio̍h thang-á koaiⁿ--khí-lâi, "GSUB" ē-kha ke chi̍t-hāng "'liga' Standard Ligatures lookup 0." 
+    In-ūi bô tùi-èng ê Unicode, koh ài siat-tēng su-li̍p ê hong-hoat. "Element > Font Info" tī tò-pêng chhōe "Lookups", téng-koân soán "GSUB", koh-lâi ji̍h chiàⁿ-pêng ê "Add Lookup". Tī thiàu--chhut-lâi ê thang-á lāi "Type" soán "Ligature Substitution". "Feature" ê só͘-chāi soán "liga Standard Ligatures", soán hó ji̍h ē-kha ê "OK". Tō ē khòaⁿ-tio̍h thang-á koaiⁿ--khí-lâi, "GSUB" ē-kha ke chi̍t-hāng "'liga' Standard Ligatures lookup 0". 
     
-    Koh-lâi ji̍h chiàⁿ-pêng ê "Add Subtable." Thâu-chi̍t-ê thang-á ti̍t-chiap ji̍h "OK," sòa-lo̍h-lâi tī thiàu--chhut-lâi ê thang-á ū "New" ê só͘-chāi ji̍h chi̍t-ē, su-li̍p "Oo.liga", tō-sī lán pang "O͘" hō ê miâ. Chiàⁿ-pêng su-li̍p "O" khang chi̍t-keh "dot", khòaⁿ--khí-lâi ē chhiūⁿ "O dot(◌͘)." Án-ne "O͘" tō chò hó--ah. "o͘" mā-sī kâng-khóaⁿ ê hong-hoat. M̄-koh m̄-bián têng-chò lookup ê só͘-chāi, ti̍t-chiap ùi "GSUB" ē-kha "'liga' Standard Ligatures lookup 0" tiám hō͘ khui, lāi-té ê "'liga' Standard Ligatures lookup 0-1" tiám nn̄g-ē, kā thang-á phah hō͘ khui koh ka sin--ê tō hó.
+    Koh-lâi ji̍h chiàⁿ-pêng ê "Add Subtable". Thâu-chi̍t-ê thang-á ti̍t-chiap ji̍h "OK", sòa-lo̍h-lâi tī thiàu--chhut-lâi ê thang-á ū "New" ê só͘-chāi ji̍h chi̍t-ē, su-li̍p "Oo.liga", tō-sī lán pang "O͘" hō ê miâ. Chiàⁿ-pêng su-li̍p "O" khang chi̍t-keh "dot", khòaⁿ--khí-lâi ē chhiūⁿ "O dot(◌͘)". Án-ne "O͘" tō chò hó--ah. "o͘" mā-sī kâng-khóaⁿ ê hong-hoat. M̄-koh m̄-bián têng-chò lookup ê só͘-chāi, ti̍t-chiap ùi "GSUB" ē-kha "'liga' Standard Ligatures lookup 0" tiám hō͘ khui, lāi-té ê "'liga' Standard Ligatures lookup 0-1" tiám nn̄g-ē, kā thang-á phah hō͘ khui koh ka sin--ê tō hó.
 
 * 範例 2：做 "O͘" 佮 "o͘"
     "O͘" 佮 "o͘" 無對應 ê Unicode, 需要用 "O" kah "◌͘"（Combining Dot Above Right, U+0358. 是一个專門用來囥佇字母正爿頂懸 ê 點）組合。代先咱先佇字體有 ê 字內底揣看敢有這个 Unicode 是 U+0358 ê "◌͘"。若是無嘛袂要緊，會當提生做差不多 ê "."（U+002E）來用。用佮範例 1 仝款 ê 方法做這个欲予 "O͘" 佮 "o͘" 專用 ê 點，佇格仔正揤，選 "Glyph Info"，內底 "Glyph Name" 輸入 "dot"，予伊一个名（以後會用著）。閣來佇點 ê 格仔正揤，選 "Copy Reference" 來複製。
@@ -105,9 +104,19 @@ Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng
 
     閣來揤正爿 ê "Add Subtable"。頭一个窗仔直接揤 "OK"，紲落來佇跳出來 ê 窗仔有 "New" ê 所在揤一下，輸入 "Oo.liga"，就是咱幫 "O͘" 號 ê 名。正爿輸入 "O" 空一格 "dot"，看起來會像 "O dot(◌͘)"。按呢 "O͘" 就做好矣。"o͘" 嘛是仝款 ê 方法。毋閣毋免重做 lookup ê 所在，直接對 "GSUB" 下跤 "'liga' Standard Ligatures lookup 0" 點予開，內底 ê "'liga' Standard Ligatures lookup 0-1" 點兩下，共窗仔拍予開閣加新--ê 就好。
 
+Kî-tha khiàm ê jī mā-sī iōng kâng-khóaⁿ ê hong-hoat chò. Bô tùi-èng ê Unicode ê jī tō ài seng hō Glyph Name chiah siat-tēng Ligature. Seng kā múi chi̍t-ê siaⁿ-tiāu lóng chò hó ē khah hong-piān. Siaⁿ-tiāu 2 ~ 9 ê Glyph Name ē-tàng iōng "t2" ~ "t9". Kî-tha ê jī chhiūⁿ "Á" ê Glyph Name tō ē-tàng hō-chò "A8.liga", Ligature ê cho͘-sêng sī "A t8"; "m̄" tō hō-chò "m7.liga", Ligature ê cho͘-sêng sī "m t7". 
 
-=======
+Siōng ài chù-ì ê sī "Ó͘" kah "ó͘". In-ūi sī saⁿ-hāng mi̍h-kiāⁿ tàu--khí-lâi--ê, tī siat-tēng Ligature ê sî-chūn ài siat-tēng nǹg-chióng. "Ó͘" ê Glyph Name chiàu lán thâu-chêng ê kui-chek ē sī "Oo8.liga", i ê Ligature cho͘-sêng chi̍t-chióng sī "O dot t8", lēng-gōa chi̍t-chióng sī "O t8 dot", nn̄g-chióng lóng ài siat-tēng. "ó͘" mā-sī kâng-khóaⁿ ê hong-hoat chhú-lí.
 
-iá-bē siá--liáu...    
+Choân-pō͘ chò liáu tō ē-tàng chún-pī su-chhut sin jī-thé--ah. Seng ji̍h "Element" > "Font Info...", kā "Fontname", "Family Name" kah "Name For Humans" kái-chò ka-kī siūⁿ-beh hō ê miâ, ji̍h "OK". Ji̍h liáu ē chhut-hiān chi̍t-ê thang-á mn̄g kóng kám-ū khak-tēng beh kài? ji̍h "Change" kā kài tō sī--ah. 
 
-猶未寫了...
+Koh-lâi tō "File" > "Generate Fonts", soán hó tóng-àn beh khǹg ê só͘-chāi, tóng-miâ ē-kha soán "TrueType", "Option" phah hō͘ khui kau "OpenType", ji̍h "OK" kā thang-á koaiⁿ-tiāu. Ji̍h "Generate", chò hó ê jī-thé tóng-àn tō ē chhut-hiān tī soán hó ê chu-liāu-a̍p-á lāi-té--ah.
+
+
+其他欠 ê 字嘛是用仝款 ê 方法做。無對應 ê Unicode ê 字就愛先號 Glyph Name 遮設定 Ligature。先共每一个聲調攏做好會較方便。聲調 2 ~ 9 ê Glyph Name 會當用 "t2" ~ "t9"。其他 ê 字像 "Á" ê Glyph Name 就會當號做 "A8.liga"，Ligature ê 組成是 "A t8"；"m̄" 就號做 "m7.liga"，Ligature ê 組成是 "m t7"。
+
+上愛注意 ê 是 "Ó͘" 佮 "ó͘"。因為是三項物件鬥起來--ê，佇設定 Ligature ê 時陣愛設定兩種。"Ó͘" ê Glyph Name 照咱頭前 ê 規則會是 "Oo8.liga"，伊 ê Ligature 組成一種是 "O dot t8"，另外一種是 "O t8 dot"，兩種攏愛設定。"ó͘" 嘛是仝款 ê 方法處理。
+
+全部做了就會當準備輸出新字體矣。先揤 "Element" > "Font Info..."，共 "Fontname"、"Family Name" 佮 "Name For Humans" 改做家己想欲號 ê 名，揤 "OK". 揤了會出現一个窗仔問講敢有確定欲改？揤 "Change" 共改就是矣。
+
+閣來就 "File" > "Generate Fonts"，選好檔案欲囥 ê 所在，檔名下跤選 "TrueType"，"Option" 拍予開勾 "OpenType"，揤 "OK" 共窗仔關掉。揤 "Generate"，做好 ê 字體檔案就會出現佇選好 ê 資料匣仔內底矣。
