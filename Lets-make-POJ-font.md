@@ -4,9 +4,9 @@ Pe̍h-ōe-jī lāi-té ū chin-chē kā im-tiau-hû-hō kap chò-hóe ê bó-im,
 # 做夥來做白話字字體
 白話字內底有真濟共音調符號敆做夥 ê 母音，大部分 ê 字體攏無包括這寡字，所以會無法度顯示，變做一塊四角豆腐。這个狀況嘛造成白話字會當用 ê 字體非常少。欲解決這个問題，咱會當揣現有 ê ，有開放授權 ê 字體來修改，共本底無 ê 字補起來。紲落來就來說明愛按怎做。
 
-## 1. An-chong su-iàu ê nńg-thé
+## 1. An-chng su-iàu ê nńg-thé
 Chit-ê sòe-bêng lāi-té sú-iōng ê sī khai-goân nńg-thé FontForge. Ē-tàng tī chia táng-ló͘ : [FontForge](https://fontforge.org/en-US/)  
-Táng-ló͘ liáu tō phah-hō͘-khui, chiàu chí-sī an-chong.
+Táng-ló͘ liáu tō phah-hō͘-khui, chiàu chí-sī an-chng.
 
 ## 1. 安裝需要 ê 軟體
 這个說明內底使用 ê 是開源軟體 FontForge. 會當佇遮 táng-ló͘ : [FontForge](https://fontforge.org/en-US/)  
@@ -57,6 +57,8 @@ Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng
 * Ū Unicode: Kā jī chò--chhut-lâi í-āu kā hō chi̍t-ê tùi-èng ê Unicode hō-bé tō ē-sái.
 * Bô Unicode: Kā jī chò--chhut-lâi í-āu ài iōng "Ligature (liām-jī)" ê hong-hoat chí-tēng jī beh án-chóaⁿ phah--chhut-lâi.
 
+Lí nā-sī ē-hiáu iōng Python script, mā chai-iáⁿ Fontforge ki-pún ê sú-iōng hong-hoat, ē-sái iōng A-ióng chò ê chū-tōng-hòa kang-kū, chò--khí-lâi ē khah kín. Soeh-bêng khòaⁿ chiah: [Iōng chū-tōng-hòa kang-kū chò Pe̍h-ōe-jī jī-thé](make-POJ-font-with-automation-script.md)
+
 
 ## 4. 開始做字補字
 
@@ -64,6 +66,9 @@ Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng
 
 * 有 Unicode：共字做出來以後共號一个對應 ê Unicode 號碼就會使。
 * 無 Unicode：共字做出來以後愛用 "Ligature（連字）" ê 方法指定字欲按怎拍出來。 
+
+你若是會曉用 Python script, 嘛知影 Fontforge 基本 ê 使用方法，會使用阿勇做 ê 自動化工具，做起來會較緊。說明看遮：[用自動化工具做白話字字體](make-POJ-font-with-automation-script.md)
+
      
 - - -
 
@@ -87,13 +92,13 @@ Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng
 
 
 * Hoān-lē 2: Chò "O͘" kah "o͘"
-    "O͘" kah "o͘" bô tùi-èng ê Unicode, su-iàu iōng "O" kah "◌͘" (Combining Dot Above Right, U+0358. Sī chi̍t-ê choan-mn̂g iōng-lâi khǹg tī jī-bó chiàⁿ-pêng téng-koân ê tiám) cho͘-ha̍p. Tāi-seng lán seng tī jī-thé ū ê jī lāi-té chhōe khòaⁿ kám ū chi̍t-ê Unicode sī U+0358 ê "◌͘". Nā-sī bô mā bē-iàu-kín, ē-tàng the̍h seⁿ-chò chha-put-to ê "." (U+002E) lâi ēng. Iōng kah hoān-lē 1 kâng-khóaⁿ ê hong-hoat chò chi̍t-ê beh hō͘ "O͘" kah "o͘" choan-iōng ê tiám, tī keh-á chiàⁿ-ji̍h, soán "Glyph Info", lāi-té "Glyph Name" su-li̍p "dot", hō͘ i ū chi̍t-ê miâ (í-āu ē ēng-tio̍h). Koh-lâi tī tiám ê keh-á chiàⁿ-ji̍h, soán "Copy Reference" lâi ho̍k-chè.
+    "O͘" kah "o͘" bô tùi-èng ê Unicode, su-iàu iōng "O" kah "◌͘" (Combining Dot Above Right, U+0358. Sī chi̍t-ê choan-mn̂g iōng-lâi khǹg tī jī-bó chiàⁿ-pêng téng-koân ê tiám) cho͘-ha̍p. Tāi-seng lán seng tī jī-thé ū ê jī lāi-té chhōe khòaⁿ kám ū chi̍t-ê Unicode sī U+0358 ê "◌͘". Nā-sī bô mā bē-iàu-kín, ē-tàng the̍h seⁿ-chò chha-put-to ê "." (U+002E) lâi ēng. Iōng kah hoān-lē 1 kâng-khóan ê hong-hoat chò chi̍t-ê beh hō͘ "O͘" kah "o͘" choan-iōng ê tiám, tī keh-á chiàⁿ-ji̍h, soán "Glyph Info", lāi-té "Glyph Name" su-li̍p "dot", hō͘ i ū chi̍t-ê miâ (í-āu ē ēng-tio̍h). Koh-lâi tī tiám ê keh-á chiàⁿ-ji̍h, soán "Copy Reference" lâi ho̍k-chè.
 
-    Tī beh iōng-lâi khǹg "O͘" kah "o͘" ê khàng-pe̍h keh-á chiàⁿ-ji̍h soán "Paste" kā ho̍k-chè ê tiám tah--li̍p-khì. Koh-lâi kâng-khóaⁿ ê hong-hoat tī "O͘" ê keh-á kā "O" tah--li̍p-khì; tī "o͘" ê keh-á kā "o" tah--li̍p-khì. Tī keh-á tiám nn̄g-ē, phah-khui pian-chi̍p ōe-bīn. Iōng Pointer kang-kū kā tiám thoa káu chèng-khak ê ūi-tì (Chù-ì: Thoa tiám tō hó mài thoa tio̍h "O"). Tiâu-chéng liáu tō ē-sái kā pian-chi̍p ōe-bīn koaiⁿ--khí-lâi. Tī "O" ê keh-á chiàⁿ-ji̍h, soán "Glyph Info". Tī phah-khui ê thang-á lāi-té chhōe-tio̍h "Glyph Name", su-li̍p "Oo.liga". "o" mā-sī kâng-khóaⁿ chhú-lí, "Glyph Name" su-li̍p "oo.liga" (Chù-ì: Tōa sió siá bô kâng).
+    Tī beh iōng-lâi khǹg "O͘" kah "o͘" ê khàng-pe̍h keh-á chiàⁿ-ji̍h soán "Paste" kā ho̍k-chè ê tiám tah--li̍p-khì. Koh-lâi kâng-khóan ê hong-hoat tī "O͘" ê keh-á kā "O" tah--li̍p-khì; tī "o͘" ê keh-á kā "o" tah--li̍p-khì. Tī keh-á tiám nn̄g-ē, phah-khui pian-chi̍p ōe-bīn. Iōng Pointer kang-kū kā tiám thoa káu chèng-khak ê ūi-tì (Chù-ì: Thoa tiám tō hó mài thoa tio̍h "O"). Tiâu-chéng liáu tō ē-sái kā pian-chi̍p ōe-bīn koaiⁿ--khí-lâi. Tī "O" ê keh-á chiàⁿ-ji̍h, soán "Glyph Info". Tī phah-khui ê thang-á lāi-té chhōe-tio̍h "Glyph Name", su-li̍p "Oo.liga". "o" mā-sī kâng-khóan chhú-lí, "Glyph Name" su-li̍p "oo.liga" (Chù-ì: Tōa sió siá bô kâng).
 
     In-ūi bô tùi-èng ê Unicode, koh ài siat-tēng su-li̍p ê hong-hoat. "Element > Font Info" tī tò-pêng chhōe "Lookups", téng-koân soán "GSUB", koh-lâi ji̍h chiàⁿ-pêng ê "Add Lookup". Tī thiàu--chhut-lâi ê thang-á lāi "Type" soán "Ligature Substitution". "Feature" ê só͘-chāi soán "liga Standard Ligatures", soán hó ji̍h ē-kha ê "OK". Tō ē khòaⁿ-tio̍h thang-á koaiⁿ--khí-lâi, "GSUB" ē-kha ke chi̍t-hāng "'liga' Standard Ligatures lookup 0". 
     
-    Koh-lâi ji̍h chiàⁿ-pêng ê "Add Subtable". Thâu-chi̍t-ê thang-á ti̍t-chiap ji̍h "OK", sòa-lo̍h-lâi tī thiàu--chhut-lâi ê thang-á ū "New" ê só͘-chāi ji̍h chi̍t-ē, su-li̍p "Oo.liga", tō-sī lán pang "O͘" hō ê miâ. Chiàⁿ-pêng su-li̍p "O" khang chi̍t-keh "dot", khòaⁿ--khí-lâi ē chhiūⁿ "O dot(◌͘)". Án-ne "O͘" tō chò hó--ah. "o͘" mā-sī kâng-khóaⁿ ê hong-hoat. M̄-koh m̄-bián têng-chò lookup ê só͘-chāi, ti̍t-chiap ùi "GSUB" ē-kha "'liga' Standard Ligatures lookup 0" tiám hō͘ khui, lāi-té ê "'liga' Standard Ligatures lookup 0-1" tiám nn̄g-ē, kā thang-á phah hō͘ khui koh ka sin--ê tō hó.
+    Koh-lâi ji̍h chiàⁿ-pêng ê "Add Subtable". Thâu-chi̍t-ê thang-á ti̍t-chiap ji̍h "OK", sòa-lo̍h-lâi tī thiàu--chhut-lâi ê thang-á ū "New" ê só͘-chāi ji̍h chi̍t-ē, su-li̍p "Oo.liga", tō-sī lán pang "O͘" hō ê miâ. Chiàⁿ-pêng su-li̍p "O" khang chi̍t-keh "dot", khòaⁿ--khí-lâi ē chhiūⁿ "O dot(◌͘)". Án-ne "O͘" tō chò hó--ah. "o͘" mā-sī kâng-khóan ê hong-hoat. M̄-koh m̄-bián têng-chò lookup ê só͘-chāi, ti̍t-chiap ùi "GSUB" ē-kha "'liga' Standard Ligatures lookup 0" tiám hō͘ khui, lāi-té ê "'liga' Standard Ligatures lookup 0-1" tiám nn̄g-ē, kā thang-á phah hō͘ khui koh ka sin--ê tō hó.
 
 * 範例 2：做 "O͘" 佮 "o͘"
     "O͘" 佮 "o͘" 無對應 ê Unicode, 需要用 "O" kah "◌͘"（Combining Dot Above Right, U+0358. 是一个專門用來囥佇字母正爿頂懸 ê 點）組合。代先咱先佇字體有 ê 字內底揣看敢有這个 Unicode 是 U+0358 ê "◌͘"。若是無嘛袂要緊，會當提生做差不多 ê "."（U+002E）來用。用佮範例 1 仝款 ê 方法做這个欲予 "O͘" 佮 "o͘" 專用 ê 點，佇格仔正揤，選 "Glyph Info"，內底 "Glyph Name" 輸入 "dot"，予伊一个名（以後會用著）。閣來佇點 ê 格仔正揤，選 "Copy Reference" 來複製。
@@ -104,13 +109,13 @@ Tâi-gí lô-má-jī lāi-té khiàm ê jī hun chò nn̄g-chéng. Chi̍t-chéng
 
     閣來揤正爿 ê "Add Subtable"。頭一个窗仔直接揤 "OK"，紲落來佇跳出來 ê 窗仔有 "New" ê 所在揤一下，輸入 "Oo.liga"，就是咱幫 "O͘" 號 ê 名。正爿輸入 "O" 空一格 "dot"，看起來會像 "O dot(◌͘)"。按呢 "O͘" 就做好矣。"o͘" 嘛是仝款 ê 方法。毋閣毋免重做 lookup ê 所在，直接對 "GSUB" 下跤 "'liga' Standard Ligatures lookup 0" 點予開，內底 ê "'liga' Standard Ligatures lookup 0-1" 點兩下，共窗仔拍予開閣加新--ê 就好。
 
-Kî-tha khiàm ê jī mā-sī iōng kâng-khóaⁿ ê hong-hoat chò. Bô tùi-èng ê Unicode ê jī tō ài seng hō Glyph Name chiah siat-tēng Ligature. Seng kā múi chi̍t-ê siaⁿ-tiāu lóng chò hó ē khah hong-piān. Siaⁿ-tiāu 2 ~ 9 ê Glyph Name ē-tàng iōng "t2" ~ "t9". Kî-tha ê jī chhiūⁿ "Á" ê Glyph Name tō ē-tàng hō-chò "A8.liga", Ligature ê cho͘-sêng sī "A t8"; "m̄" tō hō-chò "m7.liga", Ligature ê cho͘-sêng sī "m t7". 
+Kî-tha khiàm ê jī mā-sī iōng kâng-khóan ê hong-hoat chò. Bô tùi-èng ê Unicode ê jī tō ài seng hō Glyph Name chiah siat-tēng Ligature. Seng kā múi chi̍t-ê siaⁿ-tiāu lóng chò hó ē khah hong-piān. Siaⁿ-tiāu 2 ~ 9 ê Glyph Name ē-tàng iōng "t2" ~ "t9". Kî-tha ê jī chhiūⁿ "Á" ê Glyph Name tō ē-tàng hō-chò "A8.liga", Ligature ê cho͘-sêng sī "A t8"; "m̄" tō hō-chò "m7.liga", Ligature ê cho͘-sêng sī "m t7". 
 
-Siōng ài chù-ì ê sī "Ó͘" kah "ó͘". In-ūi sī saⁿ-hāng mi̍h-kiāⁿ tàu--khí-lâi--ê, tī siat-tēng Ligature ê sî-chūn ài siat-tēng nǹg-chióng. "Ó͘" ê Glyph Name chiàu lán thâu-chêng ê kui-chek ē sī "Oo8.liga", i ê Ligature cho͘-sêng chi̍t-chióng sī "O dot t8", lēng-gōa chi̍t-chióng sī "O t8 dot", nn̄g-chióng lóng ài siat-tēng. "ó͘" mā-sī kâng-khóaⁿ ê hong-hoat chhú-lí.
+Siōng ài chù-ì ê sī "Ó͘" kah "ó͘". In-ūi sī saⁿ-hāng mi̍h-kiāⁿ tàu--khí-lâi--ê, tī siat-tēng Ligature ê sî-chūn ài siat-tēng nǹg-chióng. "Ó͘" ê Glyph Name chiàu lán thâu-chêng ê kui-chek ē sī "Oo8.liga", i ê Ligature cho͘-sêng chi̍t-chióng sī "O dot t8", lēng-gōa chi̍t-chióng sī "O t8 dot", nn̄g-chióng lóng ài siat-tēng. "ó͘" mā-sī kâng-khóan ê hong-hoat chhú-lí.
 
 Choân-pō͘ chò liáu tō ē-tàng chún-pī su-chhut sin jī-thé--ah. Seng ji̍h "Element" > "Font Info...", kā "Fontname", "Family Name" kah "Name For Humans" kái-chò ka-kī siūⁿ-beh hō ê miâ, ji̍h "OK". Ji̍h liáu ē chhut-hiān chi̍t-ê thang-á mn̄g kóng kám-ū khak-tēng beh kài? ji̍h "Change" kā kài tō sī--ah. 
 
-Koh-lâi tō "File" > "Generate Fonts", soán hó tóng-àn beh khǹg ê só͘-chāi, tóng-miâ ē-kha soán "TrueType", "Option" phah hō͘ khui kau "OpenType", ji̍h "OK" kā thang-á koaiⁿ-tiāu. Ji̍h "Generate", chò hó ê jī-thé tóng-àn tō ē chhut-hiān tī soán hó ê chu-liāu-a̍p-á lāi-té--ah.
+Koh-lâi tō "File" > "Generate Fonts", soán hó tóng-àn beh khǹg ê só͘-chāi, tóng-miâ ē-kha soán `OpenType (CFF)`, "Option" phah hō͘ khui kau `Hints`, `Flex Hints`, `PS Glyph Names`, `OpenType`, kî-tha ê lóng mài kau, ji̍h "OK" kā thang-á koaiⁿ-tiāu. Ji̍h "Generate", chò hó ê jī-thé tóng-àn tō ē chhut-hiān tī soán hó ê chu-liāu-a̍p-á lāi-té--ah.
 
 
 其他欠 ê 字嘛是用仝款 ê 方法做。無對應 ê Unicode ê 字就愛先號 Glyph Name 遮設定 Ligature。先共每一个聲調攏做好會較方便。聲調 2 ~ 9 ê Glyph Name 會當用 "t2" ~ "t9"。其他 ê 字像 "Á" ê Glyph Name 就會當號做 "A8.liga"，Ligature ê 組成是 "A t8"；"m̄" 就號做 "m7.liga"，Ligature ê 組成是 "m t7"。
@@ -119,4 +124,4 @@ Koh-lâi tō "File" > "Generate Fonts", soán hó tóng-àn beh khǹg ê só͘-c
 
 全部做了就會當準備輸出新字體矣。先揤 "Element" > "Font Info..."，共 "Fontname"、"Family Name" 佮 "Name For Humans" 改做家己想欲號 ê 名，揤 "OK". 揤了會出現一个窗仔問講敢有確定欲改？揤 "Change" 共改就是矣。
 
-閣來就 "File" > "Generate Fonts"，選好檔案欲囥 ê 所在，檔名下跤選 "TrueType"，"Option" 拍予開勾 "OpenType"，揤 "OK" 共窗仔關掉。揤 "Generate"，做好 ê 字體檔案就會出現佇選好 ê 資料匣仔內底矣。
+閣來就 "File" > "Generate Fonts"，選好檔案欲囥 ê 所在，檔名下跤選 `OpenType (CFF)`，"Option" 拍予開勾 `Hints`, `Flex Hints`, `PS Glyph Names`, `OpenType`，其他攏莫勾，揤 "OK" 共窗仔關掉。揤 "Generate"，做好 ê 字體檔案就會出現佇選好 ê 資料匣仔內底矣。
