@@ -1,14 +1,14 @@
 # Iōng chū-tōng-hòa kang-kū chò Pe̍h-ōe-jī jī-thé
 
-Chit-phiⁿ bûn-kiāⁿ ē soeh-bêng án-chóaⁿ sú-iōng A-ióng chò ê Python script lâi chò Pe̍h-ōe-jī jī-thé. Lí nā-sī m̄-chai-iáⁿ án-chóaⁿ iōng python script, ē-tàng chham-khó ti̍t-chiap iōng Fontforge chò jī-thé ê soeh-bêng: [Chò-hóe lâi chò Pe̍h-ōe-jī jī-thé](lets-make-POJ-font.md)
+Chit-phiⁿ bûn-kiāⁿ ē soeh-bêng án-chóaⁿ sú-iōng A-ióng chò ê Python script lâi chò Pe̍h-ōe-jī jī-thé. Lí nā-sī m̄-chai-iáⁿ án-chóaⁿ iōng python script, ē-tàng chham-khó ti̍t-chiap iōng Fontforge chò jī-thé ê soeh-bêng: [Chò-hóe lâi chò Pe̍h-ōe-jī jī-thé](Lets-make-POJ-font.md)
 
 # 用自動化工具做白話字字體
 
-這篇文件會說明按怎使用阿勇做 ê python script 來做白話字字體。你若是毋知影按怎用 Python script，會當參考直接用 Fontforge 做字體 ê 說明：[做夥來做白話字字體](lets-make-POJ-font.md)
+這篇文件會說明按怎使用阿勇做 ê python script 來做白話字字體。你若是毋知影按怎用 Python script，會當參考直接用 Fontforge 做字體 ê 說明：[做夥來做白話字字體](Lets-make-POJ-font.md)
 
 
 ## 1. Siat-tēng khoân-kéng kah nńg-thé
-
+
 * An-chng [FontForge](https://fontforge.org/en-US/)
 * Ài ū pán-pún > 3 ê Python, pēng-chhiáⁿ an-chng `fontforge` module  
     
@@ -48,7 +48,7 @@ Chit-phiⁿ bûn-kiāⁿ ē soeh-bêng án-chóaⁿ sú-iōng A-ióng chò ê Py
   ```
   python /path/to/poj.py -h
   ```
-  iá-sī:
+  猶是
   ```
   ffpython /path/to/poj.py -h
   ```
@@ -175,8 +175,8 @@ Koh-lâi, tī tò-pêng soán beh tiâu-chéng ê jī-bó, kā nâ-sek ê "+" k�
 #            Ax  Ay  Ex  Ey  Ix  Iy  Ox  Oy  Ux  Uy  ax  ay  ex  ey  ix  iy  ox  oy  ux  uy
 ```
 
-### D. 加點 ê E, I 佮 U
-除了 O͘ 以外，嘛有人使用加點 ê E, I 佮 U 來表現 in ê 腔口。這个部份有包括佇 Lookups ê `mark2base` 內底。嘛會使用 `--skip-dot-anchors` 共關掉。若是有欲做這寡字（建議愛做），執行一擺這个 script 以後，就愛去 Lookups ê `mark2base` 窗仔調整點欲囥 ê 位。`A` 嘛佇內底是欲予 in 看起來較完整。詳細 ê 方法：
+### D. 加點 ê E, I 佮 U
+除了 O͘ 以外，嘛有人使用加點 ê E, I 佮 U 來表現 in ê 腔口。這个部份有包括佇 Lookups ê `mark2base` 內底。嘛會使用 `--skip-dot-anchors` 共關掉。若是有欲做這寡字（建議愛做），執行一擺這个 script 以後，就愛去 Lookups ê `mark2base` 窗仔調整點欲囥 ê 位。`A` 嘛佇內底是欲予 in 看起來較完整。詳細 ê 方法：
 
 ```
 Element Menu
@@ -227,7 +227,7 @@ Tī thêng-sek chip-hêng liáu-āu, ài iōng FontForge phah-khui su-chhut ê t
 Hō miâ ài chiàu sú-iōng ê jī-thé ê siū-khoân kui-tēng. Siu-kái chit-kóa khai-goân jī-thé (OFL Fonts) bē-sái koh sú-iōng kah goân-lâi kâng-khóan ê miâ, ài hō chi̍t-ê oân-choân sin--ê. "Element" > "Font Info..." tò-pêng soán "PS Names" kah miâ ū koan-hē ê só͘-chāi lóng ài kài, koh ū tò-pêng soán "TTF Names" ê lāi-iông mā-sī. 
 
 ## 4. 號名
-號名愛照使用 ê 字體 ê 授權規定。修改這寡開源字體（OFL Fonts）袂使閣使用佮原來仝款 ê 名，愛號一个完全新--ê。"Element" > "Font Info..." 倒爿選 "PS Names" 佮名有關係 ê 所在攏愛改，閣有倒爿選 "TTF Names" ê 內容嘛是。
+號名愛照使用 ê 字體 ê 授權規定。修改這寡開源字體（OFL Fonts）袂使閣使用佮原來仝款 ê 名，愛號一个完全新--ê。"Element" > "Font Info..." 倒爿選 "PS Names" 佮名有關係 ê 所在攏愛改，閣有倒爿選 "TTF Names" ê 內容嘛是。
 
 
 ## 5. Su-chhut
