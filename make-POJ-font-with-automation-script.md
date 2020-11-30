@@ -1,10 +1,10 @@
 # Iōng chū-tōng-hòa kang-kū chò Pe̍h-ōe-jī jī-thé
 
-Chit-phiⁿ bûn-kiāⁿ ē soeh-bêng án-chóaⁿ sú-iōng A-ióng chò ê Python script lâi chò Pe̍h-ōe-jī jī-thé. Lí nā-sī m̄-chai-iáⁿ án-chóaⁿ iōng python script, ē-tàng chham-khó ti̍t-chiap iōng Fontforge chò jī-thé ê soeh-bêng: [Chò-hóe lâi chò Pe̍h-ōe-jī jī-thé](Lets-make-POJ-font.md)
+Chit-phiⁿ bûn-kiāⁿ ē soeh-bêng án-chóaⁿ sú-iōng A-ióng chò ê Python script lâi chò Pe̍h-ōe-jī jī-thé. Lí nā-sī m̄-chai-iáⁿ án-chóaⁿ iōng python script, ē-tàng chham-khó ti̍t-chiap iōng Fontforge chò jī-thé ê soeh-bêng: [Chò-hóe lâi chò Pe̍h-ōe-jī jī-thé](lets-make-POJ-font.md)
 
 # 用自動化工具做白話字字體
 
-這篇文件會說明按怎使用阿勇做 ê python script 來做白話字字體。你若是毋知影按怎用 Python script，會當參考直接用 Fontforge 做字體 ê 說明：[做夥來做白話字字體](Lets-make-POJ-font.md)
+這篇文件會說明按怎使用阿勇做 ê python script 來做白話字字體。你若是毋知影按怎用 Python script，會當參考直接用 Fontforge 做字體 ê 說明：[做夥來做白話字字體](lets-make-POJ-font.md)
 
 
 ## 1. Siat-tēng khoân-kéng kah nńg-thé
