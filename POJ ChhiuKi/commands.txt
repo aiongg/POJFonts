@@ -1,0 +1,23 @@
+# To generate AFDKO OTFs, use the following commands
+# Or, you can just use FontForge directly
+
+# First generate the OTFs without features in each directory
+# Then run:
+
+# Regular
+makeotf -f ./regular/POJChhiuKi-Regular.otf \
+    -ff ./regular/POJChhiuKi-Regular.fea \
+    -r \
+    -o POJChhiuKi-Regular.otf
+
+# Bold
+makeotf -f ./bold/POJChhiuKi-Bold.otf \
+    -ff ./bold/POJChhiuKi-Bold.fea \
+    -b -r \
+    -o POJChhiuKi-Bold.otf
+
+# Italic
+makeotf -f ./italic/POJChhiuKi-Italic.otf \
+    -ff ./italic/POJChhiuKi-Italic.fea \
+    -i -r \
+    -o POJChhiuKi-Italic.otf
