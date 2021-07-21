@@ -33,13 +33,13 @@ feature frac {
 @E.uc = [E Egrave Eacute Ecircumflex Emacron Ebreve Ecaron];
 @I.uc = [I Igrave Iacute Icircumflex Imacron Ibreve Icaron];
 @O.uc = [O Ograve Oacute Ocircumflex Omacron Obreve Ohungarumlaut Ocaron];
-@U.uc = [U Ugrave Uacute Ucircumflex Umacron Ubreve Uring Uhungarumlaut Ucaron];
+@U.uc = [U Ugrave Uacute Ucircumflex Umacron Ubreve Uring Uhungarumlaut Ucaron Udiaresisbelow];
 
 @a.lc = [a agrave aacute acircumflex aring amacron abreve acaron];
 @e.lc = [e egrave eacute ecircumflex emacron ebreve ecaron];
 @i.lc = [i igrave iacute icircumflex imacron ibreve icaron dotlessi];
 @o.lc = [o ograve oacute ocircumflex omacron obreve ohungarumlaut ocaron];
-@u.lc = [u ugrave uacute ucircumflex umacron ubreve uring uhungarumlaut ucaron];
+@u.lc = [u ugrave uacute ucircumflex umacron ubreve uring uhungarumlaut ucaron udiaresisbelow];
 
 lookup MARK_TOP_RIGHT {
     markClass [dotcomb] <anchor 0 1374> @top_right;
@@ -102,9 +102,26 @@ lookup MARK_TOP {
     pos base [x y z] <anchor 520 1140> mark @top;
 } MARK_TOP;
 
+lookup MARK_BOTTOM {
+    markClass [diaresisbelowcomb] <anchor 0 0> @bottom;
+
+    pos base [@A.uc] <anchor 689 0> mark @bottom;
+    pos base [@E.uc] <anchor 576 0> mark @bottom;
+    pos base [@I.uc] <anchor 299 0> mark @bottom;
+    pos base [@O.uc] <anchor 707 0> mark @bottom;
+    pos base [@U.uc] <anchor 674 0> mark @bottom;
+
+    pos base [@a.lc] <anchor 549 0> mark @bottom;
+    pos base [@e.lc] <anchor 554 0> mark @bottom;
+    pos base [@i.lc] <anchor 271 0> mark @bottom;
+    pos base [@o.lc] <anchor 579 0> mark @bottom;
+    pos base [@u.lc] <anchor 573 0> mark @bottom;
+} MARK_BOTTOM;
+
 feature mark {
     lookup MARK_TOP;
     lookup MARK_TOP_RIGHT;
+    lookup MARK_BOTTOM;
 } mark;
 
 feature kern {
